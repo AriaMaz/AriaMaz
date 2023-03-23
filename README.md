@@ -2,6 +2,7 @@
 <h3 align="left">Passionate about Artificial Intelligence 🧠 and Automation 🤖</h3>
 
 - 🦾 Sophmore at Queen's University Studying Mechatronics and Robotics Engineering
+- 📄 Check out [my resume](http://sabrinabutton.github.io) to learn more about my experiences
 - 📧 How to reach me **aria.maz@queensu.ca**
 
 <h3 align="left">Connect</h3>
