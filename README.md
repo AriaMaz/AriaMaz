@@ -30,6 +30,6 @@
 <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"> <img src="https://williamdaviesblog.files.wordpress.com/2014/06/solidworks-logo.png" alt="solidworks" width="40" height="40"/> </a> 
 <a href="https://web.autocad.com/login" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/y92LD5c5rdlNfquCy-YPNIvdnS4ISEL05wickp28OLya8WlmWQwXfAP0Yys9iTssny3K=w240-h480-rw" alt="autocad" width="40" height="40"/> </a> 
 <a href="https://ltspice-iv.en.lo4d.com/windows" target="_blank" rel="noreferrer"> <img src="https://gitlab.com/uploads/-/system/project/avatar/9699744/ltspice.png?width=64" alt="ltspice" width="40" height="40"/> </a> 
-<a href="https://www.latex-project.org/" rel="noreferrer"> <img src=https://i.ibb.co/Z8q6yvG/IMG-1201.jpg" alt="latex" width="40" height="40"/> </a> 
-  <a href="https://slack.com/" rel="noreferrer"> <img src= "https://upload.wikimedia.org/wikipedia/commons/d/d5/Slack_icon_2019.svg" alt="slack" width="40" height="40"/> </a> 
+<a href="https://www.latex-project.org/" rel="noreferrer"> <img src="https://i.ibb.co/Q6nXyF7/JPEG-image-A9677-A8-EC09-D-1.jpg" alt="latex" width="40" height="40"/> </a> 
+<a href="https://slack.com/" rel="noreferrer"> <img src= "https://upload.wikimedia.org/wikipedia/commons/d/d5/Slack_icon_2019.svg" alt="slack" width="40" height="40"/> </a> 
 </p>
