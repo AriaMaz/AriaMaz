@@ -29,5 +29,6 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1280px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"> <img src="https://williamdaviesblog.files.wordpress.com/2014/06/solidworks-logo.png" alt="solidworks" width="40" height="40"/> </a> 
 <a href="https://web.autocad.com/login" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/y92LD5c5rdlNfquCy-YPNIvdnS4ISEL05wickp28OLya8WlmWQwXfAP0Yys9iTssny3K=w240-h480-rw" alt="autocad" width="40" height="40"/> </a> 
-  <a href="https://ltspice-iv.en.lo4d.com/windows" target="_blank" rel="noreferrer"> <img src="https://gitlab.com/uploads/-/system/project/avatar/9699744/ltspice.png?width=64" alt="ltspice" width="40" height="40"/> </a> 
+<a href="https://ltspice-iv.en.lo4d.com/windows" target="_blank" rel="noreferrer"> <img src="https://gitlab.com/uploads/-/system/project/avatar/9699744/ltspice.png?width=64" alt="ltspice" width="40" height="40"/> </a> 
+<a href="https://www.intel.com/content/www/us/en/software-kit/666221/intel-quartus-ii-web-edition-design-software-version-13-1-for-windows.html" target="_blank" rel="noreferrer"> <img src="https://img.kxdw.com/2020/0610/20200610091322845.jpg" alt="quartus II" width="40" height="40"/> </a> 
 </p>
