@@ -28,4 +28,5 @@
 <a href="https://www.notion.so/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/800px-Notion-logo.svg.png?20220918151013" alt="notion" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1280px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"> <img src="https://williamdaviesblog.files.wordpress.com/2014/06/solidworks-logo.png" alt="solidworks" width="40" height="40"/> </a> 
+<a href="https://web.autocad.com/login" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/y92LD5c5rdlNfquCy-YPNIvdnS4ISEL05wickp28OLya8WlmWQwXfAP0Yys9iTssny3K=w240-h480-rw" alt="autocad" width="40" height="40"/> </a> 
 </p>
