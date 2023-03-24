@@ -9,6 +9,8 @@
 - 📄 Check out [my resume](https://drive.google.com/file/d/1_t35BvZotGZFW5WQBozmZqz24QxRmrEk/view?usp=sharing) to learn more about my experiences
 - 📧 How to reach me **aria.maz@queensu.ca**
 
+---
+
 <h3 align="left" >Connect</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ariamaz" target="blank">
