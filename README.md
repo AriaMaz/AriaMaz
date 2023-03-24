@@ -56,3 +56,16 @@
 <a href="https://slack.com/" rel="noreferrer"> 
   <img src= "https://upload.wikimedia.org/wikipedia/commons/d/d5/Slack_icon_2019.svg" width="40" height="40" alt="slack"/> </a> 
 </p>
+
+<details>
+<summary><h4>About Me</h4></summary>
+Second year student with 1+ years of experience in automation, software-hardware design/integration, and control systems. I help companies simulate, assemble, and install autonomous/AI applications. 
+
+<p></p> 
+ 
+**Some Examples Include:**
+- Developing an AI to diagnoses bipolar disorder with a 75.77% accuracy (showcased at the Canadian Undergraduate Conference on Artificial Intelligence) by programming a neural network with 4 other team mates
+- Engineered sketches, SolidWorks models, and physical cooling loops in a sub-team of 20 individuals within a design team of 200 for the four engines of the Hyperloop enabling a 100% increase of top speeds to 340 km/h
+- Designing, installing, and maintaining smart home systems with 100% customer satisfaction by soldering, wiring, and building thermosensitive equipment, electric circuits, PCBs, and differential temperature controllers
+
+I am fascinated by the Automotive, Defense, and Aerospace industries and love applying my expertise to devise creative and innovative solutions to complex problems.
