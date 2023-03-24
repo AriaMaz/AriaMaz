@@ -45,8 +45,6 @@
   <img src="https://www.imaginit.com/Portals/4/ImageCache/ProductDetails/1_autodesk-autocad-product-icon-128@2x.png" width="40" height="40" alt="autocad"/>   </a>
 <a href="https://ltspice-iv.en.lo4d.com/windows" target="_blank" rel="noreferrer"> 
   <img src="https://gitlab.com/uploads/-/system/project/avatar/9699744/ltspice.png?width=64" width="40" height="40" alt="ltspice"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40"         height="40" alt="pandas"/> </a>  
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1280px-Adobe_Photoshop_CC_icon.svg.png" width="40"         height="40" alt="photoshop"/> </a> 
 <a href="https://www.office.com/" target="_blank" rel="noreferrer"> 
