@@ -2,6 +2,7 @@
 <h3 align="left">Passionate about Artificial Intelligence 🧠 and Automation 🤖</h3>
 
 <img align="right" alt="Coding" width="266" src="https://jonnybaker.blogs.com/jonnybaker/pics/ASCII-Man1.gif">
+
 - 🦾 Sophmore at Queen's University Studying Mechatronics and Robotics Engineering
 - 📄 Check out [my resume](https://drive.google.com/file/d/1_t35BvZotGZFW5WQBozmZqz24QxRmrEk/view?usp=sharing) to learn more about my experiences
 - 📧 How to reach me **aria.maz@queensu.ca**
