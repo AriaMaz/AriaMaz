@@ -2,7 +2,7 @@
 <h3 align="left" >Passionate about Artificial Intelligence 🧠 and Automation 🤖</h3>
 
 <a href="https://github.com/AriaMaz">
-  <img src="https://phoneky.co.uk/thumbs/screensavers/down/technology/digitalman_pyiqxoie.gif" align="right" width="220" alt="codedmanwalking">
+  <img src="https://phoneky.co.uk/thumbs/screensavers/down/technology/digitalman_pyiqxoie.gif" align="right" width="240" alt="codedmanwalking">
 </a>
 
 - 🦾 Sophmore at Queen's University Studying Mechatronics and Robotics Engineering
