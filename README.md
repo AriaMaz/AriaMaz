@@ -43,6 +43,8 @@
   <img src="https://williamdaviesblog.files.wordpress.com/2014/06/solidworks-logo.png" width="40" height="40" alt="solidworks"/> </a> 
 <a href="https://web.autocad.com/login" target="_blank" rel="noreferrer"> 
   <img src="https://www.imaginit.com/Portals/4/ImageCache/ProductDetails/1_autodesk-autocad-product-icon-128@2x.png" width="40" height="40" alt="autocad"/>   </a>
+<a href="https://www.intel.com/content/www/us/en/software-kit/666221/intel-quartus-ii-web-edition-design-software-version-13-1-for-windows.html"  target="_blank" rel="noreferrer"> 
+ <img src="https://downloadly.ir/wp-content/uploads/2018/09/Quartus-Prime-.png" width="40" height="40" alt="quartusii"/> </a> 
 <a href="https://ltspice-iv.en.lo4d.com/windows" target="_blank" rel="noreferrer"> 
   <img src="https://gitlab.com/uploads/-/system/project/avatar/9699744/ltspice.png?width=64" width="40" height="40" alt="ltspice"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
