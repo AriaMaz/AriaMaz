@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" >
+</div>
+
 <h1 align="center" >Hi there, I'm Aria Maz</h1>
 <h3 align="left" >Passionate about Artificial Intelligence 🧠 and Automation 🤖</h3>
 
