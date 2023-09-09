@@ -5,7 +5,7 @@
   <img src="https://phoneky.co.uk/thumbs/screensavers/down/technology/digitalman_pyiqxoie.gif" align="right" width="240" alt="codedmanwalking">
 </a>
 
-- 🦾 Sophmore at Queen's University Studying Mechatronics and Robotics Engineering
+- 🦾 Junior at Queen's University Studying Mechatronics and Robotics Engineering
 - 📄 Check out [my resume](https://drive.google.com/file/d/1_t35BvZotGZFW5WQBozmZqz24QxRmrEk/view?usp=sharing) to learn more about my experiences
 - 📧 How to reach me **aria.maz@queensu.ca**
 
