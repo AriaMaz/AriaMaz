@@ -49,13 +49,6 @@
   <img src="https://gitlab.com/uploads/-/system/project/avatar/9699744/ltspice.png?width=64" width="40" height="40" alt="ltspice"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1280px-Adobe_Photoshop_CC_icon.svg.png" width="40"         height="40" alt="photoshop"/> </a> 
-<a href="https://www.office.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png" width="40" height="40" alt="microsoftoffice"/> </a> 
-<a href="https://www.notion.so/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/800px-Notion-logo.svg.png?20220918151013" width="40" height="40"       alt="notion"/> </a> 
-<a href="https://slack.com/" rel="noreferrer"> 
-  <img src= "https://upload.wikimedia.org/wikipedia/commons/d/d5/Slack_icon_2019.svg" width="40" height="40" alt="slack"/> </a> 
-</p>
 
 <details>
 <summary><h4>About Me</h4></summary>
