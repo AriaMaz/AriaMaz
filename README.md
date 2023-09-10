@@ -52,7 +52,7 @@
 
 <details>
 <summary><h4>About Me</h4></summary>
-Second year student with 1+ years of experience in automation, software-hardware design/integration, and control systems. I help companies simulate, assemble, and install autonomous/AI applications. 
+Third year student with 1+ years of experience in automation, software-hardware design/integration, and control systems. I help companies simulate, assemble, and install autonomous/AI applications. 
 
 <p></p> 
  
