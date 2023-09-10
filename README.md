@@ -6,7 +6,7 @@
 </a>
 
 - 🦾 Junior at Queen's University Studying Mechatronics and Robotics Engineering
-- 📄 Check out [my resume](https://drive.google.com/file/d/1_t35BvZotGZFW5WQBozmZqz24QxRmrEk/view?usp=sharing) to learn more about my experiences
+- 📄 Check out [my resume](https://drive.google.com/file/d/1vOWG2wJVDQUO2CQK8kqtcNnYgcHCwfqa/view?usp=sharing) to learn more about my experiences
 - 📧 How to reach me **aria.maz@queensu.ca**
 
 ---
