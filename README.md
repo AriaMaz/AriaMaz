@@ -37,8 +37,8 @@
 
 <h3 align="left">Softwares & Tools</h3>
 <p align="left"> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="git"/> </a> 
+<a href="https://www.technia.com/software/catia/" target="_blank" rel="noreferrer"> 
+  <img src="http://www.3dpartfinder.com/wp-content/uploads/2016/01/DS-CATIA-Logo.png" width="40" height="40" alt="CATIA"/> </a> 
 <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"> 
   <img src="https://williamdaviesblog.files.wordpress.com/2014/06/solidworks-logo.png" width="40" height="40" alt="solidworks"/> </a> 
 <a href="https://web.autocad.com/login" target="_blank" rel="noreferrer"> 
