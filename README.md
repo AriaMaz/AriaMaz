@@ -57,8 +57,8 @@ Third year student with 1+ years of experience in automation, software-hardware 
 <p></p> 
  
 **Some Examples Include:**
-- Innovated an engine overheating alarm system with dual-zone temperature sensors and a cooling mechanism by designing hardware components and programming firmware in C, leading to the sale and use of 11 units by the NASA Glenn Research Center
-- Developed and debugged an artificial intelligence (AI) program in Python that diagnoses and categorizes bipolar disorder with an accuracy of 76% using motor activity data from patient’s motion-sensitive wristbands, then presenting findings at the Canadian Undergraduate Conference on Artificial Intelligence (CUCAI)
-- Managed and led a group of 20 individuals within the Hyperloop Design Team, created SolidWorks models for cooling systems, and built two physical cooling loops for the engines of the Hyperloop train, enabling a 100% increase in top speeds to 340 km/h
+- Innovating an engine overheating alarm system with dual-zone temperature sensors and a cooling mechanism by designing hardware components and programming firmware in C, leading to the sale and use of 11 units by the NASA Glenn Research Center
+- Developing and debugging an artificial intelligence (AI) program in Python that diagnoses and categorizes bipolar disorder with an accuracy of 76% using motor activity data from patient’s motion-sensitive wristbands, then presenting findings at the Canadian Undergraduate Conference on Artificial Intelligence (CUCAI)
+- Managing and leading a group of 20 individuals within the Hyperloop Design Team, created SolidWorks models for cooling systems, and built two physical cooling loops for the engines of the Hyperloop train, enabling a 100% increase in top speeds to 340 km/h
 
-I am fascinated by the Automotive, Defense, and Aerospace industries and love applying my expertise to devise creative and innovative solutions to complex problems.
+I am fascinated by the Automotive, AI, and Aerospace/Defence industries and enjoy applying my expertise to devise creative and innovative solutions to complex problems.
