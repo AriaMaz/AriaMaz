@@ -52,7 +52,7 @@
 
 <details>
 <summary><h4>About Me</h4></summary>
-I'm a third-year student with 1+ years of experience in automation, software-hardware design/integration, and control systems. I help companies simulate, assemble, and install autonomous/AI applications. 
+I'm a third-year student with 2+ years of experience in automation, software-hardware design/integration, and control systems. I help companies simulate, assemble, and install autonomous/AI applications. 
 
 <p></p> 
  
@@ -61,4 +61,4 @@ I'm a third-year student with 1+ years of experience in automation, software-har
 - Developed and debugged an artificial intelligence (AI) program in Python that diagnoses and categorizes bipolar disorder with an accuracy of 76% using motor activity data from patient’s motion-sensitive wristbands, then presented findings at the Canadian Undergraduate Conference on Artificial Intelligence (CUCAI)
 - Led a group of 20 individuals within the Hyperloop Design Team, created SolidWorks models for cooling systems, and built two physical cooling loops for the engines of the Hyperloop train, enabling a 100% increase in top speeds to 340 km/h
 
-I am fascinated by the Automotive, Defense, and Aerospace industries and love applying my expertise to devise creative and innovative solutions to complex problems.
+I am fascinated by the Automotive, Defense, and Aerospace industries and enjoy applying my expertise to devise creative and innovative solutions to complex problems.
