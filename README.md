@@ -6,7 +6,7 @@
 </a>
 -->
 
-- 🎓 Third year at Queen's University Studying Mechatronics and Robotics Engineering
+- 🎓 Third year srudent studying Mechatronics and Robotics Engineering at Queen's University
 - 📄 Check out [my resume](https://drive.google.com/file/d/1vfrWIWYtuGtj2DX5kz28-l4H1GRjKEe7/view?usp=sharing) to learn more about my experiences
 - 📧 How to reach me **aria.maz@queensu.ca**
 
