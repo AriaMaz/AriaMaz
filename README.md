@@ -20,21 +20,20 @@
 
 <h3 align="left">Languages</h3>
 <p align="left"> 
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40" alt="arduino"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="c"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="cplusplus"/> </a> 
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40" alt="matlab"/> </a> 
-<a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://user-images.githubusercontent.com/102880878/227271069-4ceb393d-a9a8-4582-840e-509e1ff8e8bc.png" width="40" height="40" alt="latex"/>     </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="python"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="tensorflow"/> </a> 
-</p>
+<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40" alt="matlab"/> </a> 
+
+<a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer"> 
+  <img src="https://user-images.githubusercontent.com/103866722/194773833-8571f323-4fa8-4036-a51c-57b9d29c683b.svg" width="40" height="40" alt="assembly"/> </a> 
+
+<a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://user-images.githubusercontent.com/102880878/227271069-4ceb393d-a9a8-4582-840e-509e1ff8e8bc.png" width="40" height="40" alt="latex"/> </a> 
 
 <h3 align="left">Softwares & Tools</h3>
 <p align="left"> 
