@@ -64,5 +64,5 @@ I'm a third-year Mechatronics and Robotics Engineering student at Queen's Univer
 
 I am fascinated by the Automotive and Aerospace/Defence industries and enjoy applying my expertise to devise creative and innovative solutions to complex problems.
 
-📧 𝗘𝗺𝗮𝗶𝗹: aria.maz@queensu.ca
-🔗 𝗟𝗶𝗻𝗸𝗲𝗱𝗶𝗻: linkedin.com/in/ariamaz
+📧 𝗘𝗺𝗮𝗶𝗹: aria.maz@queensu.ca </p>
+🔗 𝗟𝗶𝗻𝗸𝗲𝗱𝗶𝗻: [linkedin.com/in/ariamaz](https://www.linkedin.com/in/ariamaz)
