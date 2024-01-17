@@ -1,9 +1,11 @@
 <h1 align="center" >Hi there, I'm Aria Maz</h1>
 <h3 align="left" >Passionate about Artificial Intelligence 🧠 and Automation 🤖</h3>
 
+<!--
 <a href="https://github.com/AriaMaz">
   <img src="https://phoneky.co.uk/thumbs/screensavers/down/technology/digitalman_pyiqxoie.gif" align="right" width="240" alt="codedmanwalking">
 </a>
+-->
 
 - 🦾 Junior at Queen's University Studying Mechatronics and Robotics Engineering
 - 📄 Check out [my resume](https://drive.google.com/file/d/1ZAqQV6hXW0hZLDbiWKEwu8EYVHE5EvC1/view?usp=sharing) to learn more about my experiences
