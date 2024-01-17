@@ -52,13 +52,17 @@
 
 <details>
 <summary><h4>About Me</h4></summary>
-I'm a third-year student with 2+ years of experience in automation, software-hardware design/integration, and control systems. I help companies simulate, assemble, and install autonomous / artificial intelligence (AI) applications. 
+I'm a third-year Mechatronics and Robotics Engineering student at Queen's University with 2 years of experience in embedded software design, automation, and control systems.
+
 
 <p></p> 
  
 **Some Examples Include:**
-- Innovated an engine overheating alarm system with dual-zone temperature sensors and a cooling mechanism by designing hardware components and programming firmware in C, leading to the sale of 11 units to the NASA Glenn Research Center.
-- Developed and debugged an AI program in Python that diagnoses and categorizes bipolar disorder with an accuracy of 76% using motor activity data from patient’s motion-sensitive wristbands, then presented the findings at the Canadian Undergraduate Conference on Artificial Intelligence (CUCAI).
-- Led a group of 20 individuals within the Hyperloop Design Team, created SolidWorks models for cooling systems, and built two physical cooling loops for the engines of the Hyperloop train, enabling a 100% increase in top speeds to 340 km/h.
+- Developing a 99.8% accurate NASA-used control system for a programmable PID temperature controller by simulating the system in Simulink, generating C code using QUARC, and manually validating results by hand.
+- Designing an autonomous machine vision (MV) pet feeder in SolidWorks, programming MV in Python to detect pets with 98% accuracy and microcontrollers in C to feed pets accurately using a servo motor and load cell sensor with only a 4% weight error.
+- Led the propulsion division within the Hyperloop Design Team and created conceptual designs, SolidWorks models, and then 2 water cooling systems for the 4 engines, enabling a 100% increase in speed up to 400 km/h.
 
-I am fascinated by the Automotive, Defense, and Aerospace industries and enjoy applying my expertise to devise creative and innovative solutions to complex problems.
+I am fascinated by the Automotive and Aerospace/Defence industries and enjoy applying my expertise to devise creative and innovative solutions to complex problems.
+
+📧 𝗘𝗺𝗮𝗶𝗹: aria.maz@queensu.ca
+🔗 𝗟𝗶𝗻𝗸𝗲𝗱𝗶𝗻: linkedin.com/in/ariamaz
