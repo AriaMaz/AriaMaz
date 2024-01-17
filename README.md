@@ -1,5 +1,4 @@
 <h1 align="center" >Hi there, I'm Aria Maz</h1>
-<h3 align="left" >Passionate about Artificial Intelligence 🧠 and Automation 🤖</h3>
 
 <!--
 <a href="https://github.com/AriaMaz">
@@ -57,6 +56,7 @@
 I'm a third-year Mechatronics and Robotics Engineering student at Queen's University with 2 years of experience in embedded software design, automation, and control systems.
 
 **Some Examples Include:**
+
 - Developing a 99.8% accurate NASA-used control system for a programmable PID temperature controller by simulating the system in Simulink, generating C code using QUARC, and manually validating results by hand.
 - Designing an autonomous machine vision (MV) pet feeder in SolidWorks, programming MV in Python to detect pets with 98% accuracy and microcontrollers in C to feed pets accurately using a servo motor and load cell sensor with only a 4% weight error.
 - Led the propulsion division within the Hyperloop Design Team and created conceptual designs, SolidWorks models, and then 2 water cooling systems for the 4 engines, enabling a 100% increase in speed up to 400 km/h.
