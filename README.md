@@ -28,27 +28,29 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="python"/> </a> 
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40" alt="matlab"/> </a> 
-
 <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer"> 
   <img src="https://user-images.githubusercontent.com/103866722/194773833-8571f323-4fa8-4036-a51c-57b9d29c683b.svg" width="40" height="40" alt="assembly"/> </a> 
-
 <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> 
   <img src="https://user-images.githubusercontent.com/102880878/227271069-4ceb393d-a9a8-4582-840e-509e1ff8e8bc.png" width="40" height="40" alt="latex"/> </a> 
 
 <h3 align="left">Softwares & Tools</h3>
 <p align="left"> 
-<a href="https://www.technia.com/software/catia/" target="_blank" rel="noreferrer"> 
-  <img src="http://www.3dpartfinder.com/wp-content/uploads/2016/01/DS-CATIA-Logo.png" width="40" height="40" alt="CATIA"/> </a> 
 <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"> 
   <img src="https://williamdaviesblog.files.wordpress.com/2014/06/solidworks-logo.png" width="40" height="40" alt="solidworks"/> </a> 
-<a href="https://web.autocad.com/login" target="_blank" rel="noreferrer"> 
-  <img src="https://www.imaginit.com/Portals/4/ImageCache/ProductDetails/1_autodesk-autocad-product-icon-128@2x.png" width="40" height="40" alt="autocad"/>   </a>
-<a href="https://www.intel.com/content/www/us/en/software-kit/666221/intel-quartus-ii-web-edition-design-software-version-13-1-for-windows.html"  target="_blank" rel="noreferrer"> 
- <img src="https://downloadly.ir/wp-content/uploads/2018/09/Quartus-Prime-.png" width="40" height="40" alt="quartusii"/> </a> 
+<a href="https://www.mathworks.com/products/simulink.html" target="_blank" rel="noreferrer"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Simulink_Logo_%28non-wordmark%29.png" width="40" height="40" alt="simulink"/> </a> 
+<a href="https://www.quanser.com/products/quarc-real-time-control-software/" target="_blank" rel="noreferrer"> 
+  <img src="https://avatars.githubusercontent.com/u/9682883?s=280&v=4" width="40" height="40" alt="quarc"/> </a> 
+<a href="https://www.ia.omron.com/products/family/1755/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/omron-logo-png-transparent.png" width="40" height="40" alt="omronZenPlcProgramming"/> </a> 
 <a href="https://ltspice-iv.en.lo4d.com/windows" target="_blank" rel="noreferrer"> 
   <img src="https://gitlab.com/uploads/-/system/project/avatar/9699744/ltspice.png?width=64" width="40" height="40" alt="ltspice"/> </a> 
+<a href="https://www.intel.com/content/www/us/en/software-kit/666221/intel-quartus-ii-web-edition-design-software-version-13-1-for-windows.html"  target="_blank" rel="noreferrer"> 
+ <img src="https://downloadly.ir/wp-content/uploads/2018/09/Quartus-Prime-.png" width="40" height="40" alt="quartusii"/> </a> 
+<a href="https://www.altium.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/github/explore/7af95003139e68a3a54e382bb4f23a72836ef348/topics/altium-designer/altium-designer.png" width="40" height="40" alt="altium"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1280px-Adobe_Photoshop_CC_icon.svg.png" width="40"         height="40" alt="photoshop"/> </a> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1280px-Adobe_Photoshop_CC_icon.svg.png" width="40" height="40" alt="photoshop"/> </a> 
 
 <details>
 <summary><h4>About Me</h4></summary>
