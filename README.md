@@ -32,7 +32,8 @@
   <img src="https://user-images.githubusercontent.com/103866722/194773833-8571f323-4fa8-4036-a51c-57b9d29c683b.svg" width="40" height="40" alt="assembly"/> </a> 
 <a href="https://en.wikipedia.org/wiki/Function_block_diagram" target="_blank" rel="noreferrer"> 
   <img src="https://www.plcacademy.com/wp-content/uploads/2018/02/basic-function-block-diagram.png" width="40" height="40" alt="fbd"/> </a> 
-
+<a href="https://en.wikipedia.org/wiki/Ladder_logic" target="_blank" rel="noreferrer"> 
+  <img src="https://play-lh.googleusercontent.com/podH2rtQOsOCbaeDbqZPFqNR1WYRG9fpgp-W2HrIEnGNcvrY4P0RA_EmXj2Wzm__bCs" width="40" height="40" alt="ladderlogic"/> </a> 
   
 <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> 
   <img src="https://user-images.githubusercontent.com/102880878/227271069-4ceb393d-a9a8-4582-840e-509e1ff8e8bc.png" width="40" height="40" alt="latex"/> </a> 
