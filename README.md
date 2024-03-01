@@ -58,7 +58,7 @@
 
 <details>
 <summary><h4>About Me</h4></summary>
-I'm a third-year Mechatronics and Robotics Engineering student at Queen's University with 2 years of experience in embedded software design, automation, and control systems
+I'm a third-year Mechatronics and Robotics Engineering student at Queen's University with 2 years of experience in embedded software design, automation, and control systems.
 </p>
   
 **Some Examples Include:**
