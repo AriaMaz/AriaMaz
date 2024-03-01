@@ -7,8 +7,8 @@
 -->
 
 - 🎓 Third year student studying Mechatronics and Robotics Engineering at Queen's University
-- 📄 Check out [my resume](https://drive.google.com/file/d/1vfrWIWYtuGtj2DX5kz28-l4H1GRjKEe7/view?usp=sharing) to learn more about my experiences
-- 📧 How to reach me **aria.maz@queensu.ca**
+- 📄 Check out [my resume](https://drive.google.com/file/d/116uuE4oJH0XYsJ-cDt8IAdDn36Y7GFsk/view?usp=sharing) to learn more about my experiences
+- 📧 Reach me at **aria.maz@queensu.ca**
 
 ---
 
@@ -58,13 +58,13 @@
 
 <details>
 <summary><h4>About Me</h4></summary>
-I'm a third-year Mechatronics and Robotics Engineering student at Queen's University with 2 years of experience in embedded software design, automation, and control systems.
+I'm a third-year Mechatronics and Robotics Engineering student at Queen's University with 2 years of experience in embedded software design, automation, and control systems
 </p>
   
 **Some Examples Include:**
-- Developing a 99.8% accurate NASA-used control system for a programmable PID temperature controller by simulating the system in Simulink, generating C code using QUARC, and manually validating results by hand.
-- Designing an autonomous machine vision (MV) pet feeder in SolidWorks, programming MV in Python to detect pets with 98% accuracy and microcontrollers in C to feed pets accurately using a servo motor and load cell sensor with only a 4% weight error.
-- Led the propulsion division within the Hyperloop Design Team and created conceptual designs, SolidWorks models, and then 2 water cooling systems for the 4 engines, enabling a 100% increase in speed up to 400 km/h.
+- Designing, programming, and creating an energy efficient Machine Vision (MV) Pet Feeder that detects pets with 98% accuracy using a MV Python script and feeds pets with a 4% weight error using a C++ microcontroller script.
+- Managing the propulsion division within the Hyperloop Design Team and creating a cooling system that enables a 100% increase in the Hyperloop Trains speed up to 400 km/h.
+- Developing Ladder Logic for PLC-operated production line's using the Siemens TIA Portal STEP 7 software in a team.
 
 I am fascinated by the Automotive and Aerospace/Defence industries and enjoy applying my expertise to devise creative and innovative solutions to complex problems.
 </details>
