@@ -1,4 +1,4 @@
-<h1 align="center" >Hi there, I'm Aria Maz</h1>
+<h1 align="center" >Hey there, I'm Aria Maz</h1>
 
 <!--
 <a href="https://github.com/AriaMaz">
@@ -6,7 +6,7 @@
 </a>
 -->
 
-- 🎓 Third year student studying Mechatronics and Robotics Engineering at Queen's University
+- 🎓 Third-year student studying Mechatronics and Robotics Engineering at Queen's University
 - 📄 Check out [my resume](https://drive.google.com/file/d/116uuE4oJH0XYsJ-cDt8IAdDn36Y7GFsk/view?usp=sharing) to learn more about my experiences
 - 📧 Reach me at **aria.maz@queensu.ca**
 
@@ -62,9 +62,9 @@ I'm a third-year Mechatronics and Robotics Engineering student at Queen's Univer
 </p>
   
 **Some Examples Include:**
-- Designing, programming, and creating an energy efficient Machine Vision (MV) Pet Feeder that detects pets with 98% accuracy using a MV Python script and feeds pets with a 4% weight error using a C++ microcontroller script.
-- Managing the propulsion division within the Hyperloop Design Team and creating a cooling system that enables a 100% increase in the Hyperloop Trains speed up to 400 km/h.
-- Developing Ladder Logic for PLC-operated production line's using the Siemens TIA Portal STEP 7 software in a team.
+- Designing, programming, and creating an energy-efficient Machine Vision (MV) Pet Feeder that detects pets with 98% accuracy using a MV Python script and feeds pets with a 4% weight error using a C++ microcontroller script.
+- Managing the propulsion division within the Hyperloop Design Team and creating a cooling system that enables a 100% increase in the Hyperloop Trains' speed up to 400 km/h.
+- Developing Ladder Logic for PLC-operated production lines using the Siemens TIA Portal STEP 7 software in a team.
 
 I am fascinated by the Automotive and Aerospace/Defence industries and enjoy applying my expertise to devise creative and innovative solutions to complex problems.
 </details>
