@@ -58,11 +58,11 @@
 
 <details>
 <summary><h4>About Me</h4></summary>
-I'm a third-year Mechatronics and Robotics Engineering student at Queen's University with 2 years of experience in embedded software design, automation, and control systems.
+I'm a fourth-year Mechatronics and Robotics Engineering student at Queen's University with 2 years of experience in embedded software design, automation, and control systems.
 </p>
   
 **Some Examples Include:**
-- Designing, programming, and creating an Machine Vision (MV) Pet Feeder that detects pets with 98% accuracy using a MV Python script and feeds pets with a 4% weight error using a C++ microcontroller script.
+- Designing and programming a Machine Vision (MV) Pet Feeder that detects pets with 98% accuracy using a Python script and feeds pets with a 4% weight error using a C++ microcontroller script.
 - Managing the propulsion division within the Hyperloop Design Team and creating a cooling system that enables a 100% increase in the Hyperloop Trains' speed up to 400 km/h.
 - Developing Ladder Logic for PLC-operated production lines using the Siemens TIA Portal STEP 7 software.
 
