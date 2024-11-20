@@ -1,10 +1,12 @@
 <h1 align="center" >Hey there, I'm Aria Maz</h1>
 
+
 <!--
 <a href="https://github.com/AriaMaz">
   <img src="https://phoneky.co.uk/thumbs/screensavers/down/technology/digitalman_pyiqxoie.gif" align="right" width="240" alt="codedmanwalking">
 </a>
 -->
+
 
 - 🎓 Fourth-year student studying Mechatronics and Robotics Engineering at Queen's University
 - 📄 Check out [my resume](https://drive.google.com/file/d/1yBjue1VtLtPwE3VoN9zsXdUvbMTKZpeB/view?usp=sharing) to learn more about my experiences
