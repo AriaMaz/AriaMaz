@@ -8,60 +8,50 @@
 -->
 
 
-- 🎓 Fourth-year student studying Mechatronics and Robotics Engineering at Queen's University
+- 🎓 BASc graduate in Mechatronics and Robotics Engineering from Queen's University
 - 📄 Check out [my resume](https://drive.google.com/file/d/1yBjue1VtLtPwE3VoN9zsXdUvbMTKZpeB/view?usp=sharing) to learn more about my experiences
 - 📧 Reach me at **aria.maz@queensu.ca**
 
 ---
 
 <h3 align="left" >Connect</h3>
+
 <p align="left">
-<a href="https://linkedin.com/in/ariamaz" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" align="center"   width="40" height="30" alt="linkedin"/></a>
+  <a href="https://linkedin.com/in/ariamaz" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=inspire&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
 <h3 align="left">Languages</h3>
-<p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="c"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="cplusplus"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="python"/> </a> 
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40" alt="matlab"/> </a> 
-<a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer"> 
-  <img src="https://user-images.githubusercontent.com/103866722/194773833-8571f323-4fa8-4036-a51c-57b9d29c683b.svg" width="40" height="40" alt="assembly"/> </a> 
-<a href="https://en.wikipedia.org/wiki/Function_block_diagram" target="_blank" rel="noreferrer"> 
-  <img src="https://www.plcacademy.com/wp-content/uploads/2018/02/basic-function-block-diagram.png" width="40" height="40" alt="fbd"/> </a> 
-<a href="https://en.wikipedia.org/wiki/Ladder_logic" target="_blank" rel="noreferrer"> 
-  <img src="https://play-lh.googleusercontent.com/podH2rtQOsOCbaeDbqZPFqNR1WYRG9fpgp-W2HrIEnGNcvrY4P0RA_EmXj2Wzm__bCs" width="40" height="40" alt="ladderlogic"/> </a> 
-<a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://user-images.githubusercontent.com/102880878/227271069-4ceb393d-a9a8-4582-840e-509e1ff8e8bc.png" width="40" height="40" alt="latex"/> </a> 
 
-<h3 align="left">Softwares & Tools</h3>
-<p align="left"> 
-<a href="https://www.mathworks.com/products/simulink.html" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Simulink_Logo_%28non-wordmark%29.png" width="40" height="40" alt="simulink"/> </a> 
-<a href="https://www.siemens.com/global/en/products/automation/industry-software/automation-software/tia-portal.html" target="_blank" rel="noreferrer"> 
-  <img src="https://theautomationblog.com/wp-content/uploads/2021/02/TIA-Portal-Logo.jpg" width="40" height="40" alt="siemensTIA"/> </a> 
-<a href="https://www.ia.omron.com/products/family/1755/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/omron-logo-png-transparent.png" width="40" height="40" alt="omronZen"/> </a> 
-<a href="https://ltspice-iv.en.lo4d.com/windows" target="_blank" rel="noreferrer"> 
-  <img src="https://gitlab.com/uploads/-/system/project/avatar/9699744/ltspice.png?width=64" width="40" height="40" alt="ltspice"/> </a> 
-<a href="https://www.intel.com/content/www/us/en/software-kit/666221/intel-quartus-ii-web-edition-design-software-version-13-1-for-windows.html"  target="_blank" rel="noreferrer"> 
- <img src="https://downloadly.ir/wp-content/uploads/2018/09/Quartus-Prime-.png" width="40" height="40" alt="quartusii"/> </a> 
-<a href="https://www.altium.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/github/explore/7af95003139e68a3a54e382bb4f23a72836ef348/topics/altium-designer/altium-designer.png" width="40" height="40" alt="altium"/> </a> 
-<a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://williamdaviesblog.files.wordpress.com/2014/06/solidworks-logo.png" width="40" height="40" alt="solidworks"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1280px-Adobe_Photoshop_CC_icon.svg.png" width="40" height="40" alt="photoshop"/> </a> 
+<p align="left">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000000" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=octave&logoColor=white" alt="MATLAB"/>
+  <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly"/>
+  <img src="https://img.shields.io/badge/Function_Block_Diagram-009688?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="Function Block Diagram"/>
+  <img src="https://img.shields.io/badge/Ladder_Logic-00A86B?style=for-the-badge&logo=nodered&logoColor=white" alt="Ladder Logic"/>
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
+</p>
+
+<h3 align="left">Software & Tools</h3>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=octave&logoColor=white" alt="Simulink"/>
+  <img src="https://img.shields.io/badge/TIA_Portal-009999?style=for-the-badge&logo=abbrobotstudio&logoColor=white" alt="TIA Portal"/>
+  <img src="https://img.shields.io/badge/Omron_ZEN-005BAC?style=for-the-badge&logo=opensea&logoColor=white" alt="Omron ZEN"/>
+  <img src="https://img.shields.io/badge/LTspice-900000?style=for-the-badge&logo=electron&logoColor=white" alt="LTspice"/>
+  <img src="https://img.shields.io/badge/Quartus_II-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Quartus II"/>
+  <img src="https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=autodesk&logoColor=white" alt="Altium Designer"/>
+  <img src="https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="SolidWorks"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe&logoColor=white" alt="Photoshop"/>
+</p>
 
 <details>
 <summary><h4>About Me</h4></summary>
-I'm a fourth-year Mechatronics and Robotics Engineering student at Queen's University with 2 years of experience in embedded software design, automation, and control systems.
-</p>
+
+I'm a BASc graduate in Mechatronics and Robotics Engineering from Queen's University with 2 years of experience in embedded software design, automation, and control systems.
   
 **Some Examples Include:**
 - Designing and programming a Machine Vision (MV) Pet Feeder that detects pets with 98% accuracy using a Python script and feeds pets with a 4% weight error using a C++ microcontroller script.
