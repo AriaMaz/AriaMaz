@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-<title id="title">Token activity</title><desc id="desc">A year of Codex activity, shown as violet columns. Lifetime tokens 73.4 billion. Peak daily tokens 2.8 billion. Longest task 1 day 19 hours. Longest streak 110 days. Current streak 96 days.</desc>
+<title id="title">Token activity</title><desc id="desc">Lifetime tokens 73.4B. Peak tokens 2.8B. Longest task 1d 19h. Longest streak 110 days. Current streak 96 days.</desc>
 <style>
 svg {
  --ink: #1f2328; --muted: #59636e; --accent: #6639a6; --line: #d1d9e0;
@@ -134,147 +134,147 @@ text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Ar
 <polygon points="524.3,104.5 540.5,104.5 540.5,110.0 524.3,110.0" fill="var(--empty-front)"/>
 <polygon points="540.5,104.5 543.3,100.5 543.3,106.0 540.5,110.0" fill="var(--empty-side)"/>
 </g>
-<g class="column active" style="--lag:36ms">
+<g class="column active" style="--lag:115ms">
 <polygon points="546.0,101.0 548.8,97.0 565.0,97.0 562.2,101.0" fill="#3b2366"/>
 <polygon points="546.0,101.0 562.2,101.0 562.2,110.0 546.0,110.0" fill="#321d56"/>
 <polygon points="562.2,101.0 565.0,97.0 565.0,106.0 562.2,110.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:42ms">
+<g class="column active" style="--lag:120ms">
 <polygon points="567.6,101.0 570.4,97.0 586.6,97.0 583.8,101.0" fill="#3b2366"/>
 <polygon points="567.6,101.0 583.8,101.0 583.8,110.0 567.6,110.0" fill="#321d56"/>
 <polygon points="583.8,101.0 586.6,97.0 586.6,106.0 583.8,110.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:48ms">
+<g class="column active" style="--lag:125ms">
 <polygon points="589.2,101.0 592.0,97.0 608.2,97.0 605.5,101.0" fill="#3b2366"/>
 <polygon points="589.2,101.0 605.5,101.0 605.5,110.0 589.2,110.0" fill="#321d56"/>
 <polygon points="605.5,101.0 608.2,97.0 608.2,106.0 605.5,110.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:54ms">
+<g class="column active" style="--lag:130ms">
 <polygon points="610.9,101.0 613.7,97.0 629.9,97.0 627.1,101.0" fill="#3b2366"/>
 <polygon points="610.9,101.0 627.1,101.0 627.1,110.0 610.9,110.0" fill="#321d56"/>
 <polygon points="627.1,101.0 629.9,97.0 629.9,106.0 627.1,110.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:60ms">
+<g class="column active" style="--lag:135ms">
 <polygon points="632.5,96.0 635.3,92.0 651.5,92.0 648.8,96.0" fill="#643cae"/>
 <polygon points="632.5,96.0 648.8,96.0 648.8,110.0 632.5,110.0" fill="#543292"/>
 <polygon points="648.8,96.0 651.5,92.0 651.5,106.0 648.8,110.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:66ms">
+<g class="column active" style="--lag:140ms">
 <polygon points="654.2,101.0 657.0,97.0 673.2,97.0 670.4,101.0" fill="#3b2366"/>
 <polygon points="654.2,101.0 670.4,101.0 670.4,110.0 654.2,110.0" fill="#321d56"/>
 <polygon points="670.4,101.0 673.2,97.0 673.2,106.0 670.4,110.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:72ms">
+<g class="column active" style="--lag:145ms">
 <polygon points="675.8,101.0 678.6,97.0 694.8,97.0 692.0,101.0" fill="#3b2366"/>
 <polygon points="675.8,101.0 692.0,101.0 692.0,110.0 675.8,110.0" fill="#321d56"/>
 <polygon points="692.0,101.0 694.8,97.0 694.8,106.0 692.0,110.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:78ms">
+<g class="column active" style="--lag:150ms">
 <polygon points="697.5,101.0 700.3,97.0 716.5,97.0 713.7,101.0" fill="#3b2366"/>
 <polygon points="697.5,101.0 713.7,101.0 713.7,110.0 697.5,110.0" fill="#321d56"/>
 <polygon points="713.7,101.0 716.5,97.0 716.5,106.0 713.7,110.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:84ms">
+<g class="column active" style="--lag:155ms">
 <polygon points="719.1,89.0 721.9,85.0 738.1,85.0 735.4,89.0" fill="#8952ee"/>
 <polygon points="719.1,89.0 735.4,89.0 735.4,110.0 719.1,110.0" fill="#7345c8"/>
 <polygon points="735.4,89.0 738.1,85.0 738.1,106.0 735.4,110.0" fill="#543291"/>
 </g>
-<g class="column active" style="--lag:90ms">
+<g class="column active" style="--lag:160ms">
 <polygon points="740.8,101.0 743.6,97.0 759.8,97.0 757.0,101.0" fill="#3b2366"/>
 <polygon points="740.8,101.0 757.0,101.0 757.0,110.0 740.8,110.0" fill="#321d56"/>
 <polygon points="757.0,101.0 759.8,97.0 759.8,106.0 757.0,110.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:96ms">
+<g class="column active" style="--lag:165ms">
 <polygon points="762.4,81.0 765.2,77.0 781.4,77.0 778.6,81.0" fill="#b897f4"/>
 <polygon points="762.4,81.0 778.6,81.0 778.6,110.0 762.4,110.0" fill="#9b7fcd"/>
 <polygon points="778.6,81.0 781.4,77.0 781.4,106.0 778.6,110.0" fill="#705c95"/>
 </g>
-<g class="column active" style="--lag:102ms">
+<g class="column active" style="--lag:170ms">
 <polygon points="784.1,81.0 786.9,77.0 803.1,77.0 800.3,81.0" fill="#b897f4"/>
 <polygon points="784.1,81.0 800.3,81.0 800.3,110.0 784.1,110.0" fill="#9b7fcd"/>
 <polygon points="800.3,81.0 803.1,77.0 803.1,106.0 800.3,110.0" fill="#705c95"/>
 </g>
-<g class="column active" style="--lag:108ms">
+<g class="column active" style="--lag:175ms">
 <polygon points="805.8,101.0 808.5,97.0 824.8,97.0 822.0,101.0" fill="#3b2366"/>
 <polygon points="805.8,101.0 822.0,101.0 822.0,110.0 805.8,110.0" fill="#321d56"/>
 <polygon points="822.0,101.0 824.8,97.0 824.8,106.0 822.0,110.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:114ms">
+<g class="column active" style="--lag:180ms">
 <polygon points="827.4,81.0 830.2,77.0 846.4,77.0 843.6,81.0" fill="#b897f4"/>
 <polygon points="827.4,81.0 843.6,81.0 843.6,110.0 827.4,110.0" fill="#9b7fcd"/>
 <polygon points="843.6,81.0 846.4,77.0 846.4,106.0 843.6,110.0" fill="#705c95"/>
 </g>
-<g class="column active" style="--lag:120ms">
+<g class="column active" style="--lag:185ms">
 <polygon points="849.0,101.0 851.8,97.0 868.0,97.0 865.2,101.0" fill="#3b2366"/>
 <polygon points="849.0,101.0 865.2,101.0 865.2,110.0 849.0,110.0" fill="#321d56"/>
 <polygon points="865.2,101.0 868.0,97.0 868.0,106.0 865.2,110.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:126ms">
+<g class="column active" style="--lag:190ms">
 <polygon points="870.7,101.0 873.5,97.0 889.7,97.0 886.9,101.0" fill="#3b2366"/>
 <polygon points="870.7,101.0 886.9,101.0 886.9,110.0 870.7,110.0" fill="#321d56"/>
 <polygon points="886.9,101.0 889.7,97.0 889.7,106.0 886.9,110.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:132ms">
+<g class="column active" style="--lag:195ms">
 <polygon points="892.3,101.0 895.1,97.0 911.3,97.0 908.5,101.0" fill="#3b2366"/>
 <polygon points="892.3,101.0 908.5,101.0 908.5,110.0 892.3,110.0" fill="#321d56"/>
 <polygon points="908.5,101.0 911.3,97.0 911.3,106.0 908.5,110.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:138ms">
+<g class="column active" style="--lag:200ms">
 <polygon points="914.0,101.0 916.8,97.0 933.0,97.0 930.2,101.0" fill="#3b2366"/>
 <polygon points="914.0,101.0 930.2,101.0 930.2,110.0 914.0,110.0" fill="#321d56"/>
 <polygon points="930.2,101.0 933.0,97.0 933.0,106.0 930.2,110.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:144ms">
+<g class="column active" style="--lag:205ms">
 <polygon points="935.6,101.0 938.4,97.0 954.6,97.0 951.9,101.0" fill="#3b2366"/>
 <polygon points="935.6,101.0 951.9,101.0 951.9,110.0 935.6,110.0" fill="#321d56"/>
 <polygon points="951.9,101.0 954.6,97.0 954.6,106.0 951.9,110.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:150ms">
+<g class="column active" style="--lag:210ms">
 <polygon points="957.3,101.0 960.1,97.0 976.3,97.0 973.5,101.0" fill="#3b2366"/>
 <polygon points="957.3,101.0 973.5,101.0 973.5,110.0 957.3,110.0" fill="#321d56"/>
 <polygon points="973.5,101.0 976.3,97.0 976.3,106.0 973.5,110.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:156ms">
+<g class="column active" style="--lag:215ms">
 <polygon points="978.9,101.0 981.7,97.0 997.9,97.0 995.1,101.0" fill="#3b2366"/>
 <polygon points="978.9,101.0 995.1,101.0 995.1,110.0 978.9,110.0" fill="#321d56"/>
 <polygon points="995.1,101.0 997.9,97.0 997.9,106.0 995.1,110.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:162ms">
+<g class="column active" style="--lag:220ms">
 <polygon points="1000.6,101.0 1003.4,97.0 1019.6,97.0 1016.8,101.0" fill="#3b2366"/>
 <polygon points="1000.6,101.0 1016.8,101.0 1016.8,110.0 1000.6,110.0" fill="#321d56"/>
 <polygon points="1016.8,101.0 1019.6,97.0 1019.6,106.0 1016.8,110.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:168ms">
+<g class="column active" style="--lag:225ms">
 <polygon points="1022.2,101.0 1025.0,97.0 1041.2,97.0 1038.4,101.0" fill="#3b2366"/>
 <polygon points="1022.2,101.0 1038.4,101.0 1038.4,110.0 1022.2,110.0" fill="#321d56"/>
 <polygon points="1038.4,101.0 1041.2,97.0 1041.2,106.0 1038.4,110.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:174ms">
+<g class="column active" style="--lag:230ms">
 <polygon points="1043.9,101.0 1046.7,97.0 1062.9,97.0 1060.1,101.0" fill="#3b2366"/>
 <polygon points="1043.9,101.0 1060.1,101.0 1060.1,110.0 1043.9,110.0" fill="#321d56"/>
 <polygon points="1060.1,101.0 1062.9,97.0 1062.9,106.0 1060.1,110.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:180ms">
+<g class="column active" style="--lag:235ms">
 <polygon points="1065.5,96.0 1068.3,92.0 1084.5,92.0 1081.8,96.0" fill="#643cae"/>
 <polygon points="1065.5,96.0 1081.8,96.0 1081.8,110.0 1065.5,110.0" fill="#543292"/>
 <polygon points="1081.8,96.0 1084.5,92.0 1084.5,106.0 1081.8,110.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:186ms">
+<g class="column active" style="--lag:240ms">
 <polygon points="1087.2,89.0 1090.0,85.0 1106.2,85.0 1103.4,89.0" fill="#8952ee"/>
 <polygon points="1087.2,89.0 1103.4,89.0 1103.4,110.0 1087.2,110.0" fill="#7345c8"/>
 <polygon points="1103.4,89.0 1106.2,85.0 1106.2,106.0 1103.4,110.0" fill="#543291"/>
 </g>
-<g class="column active" style="--lag:192ms">
+<g class="column active" style="--lag:245ms">
 <polygon points="1108.8,101.0 1111.6,97.0 1127.8,97.0 1125.0,101.0" fill="#3b2366"/>
 <polygon points="1108.8,101.0 1125.0,101.0 1125.0,110.0 1108.8,110.0" fill="#321d56"/>
 <polygon points="1125.0,101.0 1127.8,97.0 1127.8,106.0 1125.0,110.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:198ms">
+<g class="column active" style="--lag:250ms">
 <polygon points="1130.5,101.0 1133.3,97.0 1149.5,97.0 1146.7,101.0" fill="#3b2366"/>
 <polygon points="1130.5,101.0 1146.7,101.0 1146.7,110.0 1130.5,110.0" fill="#321d56"/>
 <polygon points="1146.7,101.0 1149.5,97.0 1149.5,106.0 1146.7,110.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:204ms">
+<g class="column active" style="--lag:255ms">
 <polygon points="1152.1,96.0 1154.9,92.0 1171.1,92.0 1168.3,96.0" fill="#643cae"/>
 <polygon points="1152.1,96.0 1168.3,96.0 1168.3,110.0 1152.1,110.0" fill="#543292"/>
 <polygon points="1168.3,96.0 1171.1,92.0 1171.1,106.0 1168.3,110.0" fill="#3d256a"/>
@@ -369,7 +369,7 @@ text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Ar
 <polygon points="414.0,119.5 430.2,119.5 430.2,125.0 414.0,125.0" fill="var(--empty-front)"/>
 <polygon points="430.2,119.5 433.0,115.5 433.0,121.0 430.2,125.0" fill="var(--empty-side)"/>
 </g>
-<g class="column active" style="--lag:11ms">
+<g class="column active" style="--lag:94ms">
 <polygon points="435.7,116.0 438.5,112.0 454.7,112.0 451.9,116.0" fill="#3b2366"/>
 <polygon points="435.7,116.0 451.9,116.0 451.9,125.0 435.7,125.0" fill="#321d56"/>
 <polygon points="451.9,116.0 454.7,112.0 454.7,121.0 451.9,125.0" fill="#24153e"/>
@@ -389,152 +389,152 @@ text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Ar
 <polygon points="500.6,119.5 516.9,119.5 516.9,125.0 500.6,125.0" fill="var(--empty-front)"/>
 <polygon points="516.9,119.5 519.6,115.5 519.6,121.0 516.9,125.0" fill="var(--empty-side)"/>
 </g>
-<g class="column active" style="--lag:35ms">
+<g class="column active" style="--lag:114ms">
 <polygon points="522.3,116.0 525.1,112.0 541.3,112.0 538.5,116.0" fill="#3b2366"/>
 <polygon points="522.3,116.0 538.5,116.0 538.5,125.0 522.3,125.0" fill="#321d56"/>
 <polygon points="538.5,116.0 541.3,112.0 541.3,121.0 538.5,125.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:41ms">
+<g class="column active" style="--lag:119ms">
 <polygon points="544.0,111.0 546.8,107.0 563.0,107.0 560.2,111.0" fill="#643cae"/>
 <polygon points="544.0,111.0 560.2,111.0 560.2,125.0 544.0,125.0" fill="#543292"/>
 <polygon points="560.2,111.0 563.0,107.0 563.0,121.0 560.2,125.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:47ms">
+<g class="column active" style="--lag:124ms">
 <polygon points="565.6,116.0 568.4,112.0 584.6,112.0 581.8,116.0" fill="#3b2366"/>
 <polygon points="565.6,116.0 581.8,116.0 581.8,125.0 565.6,125.0" fill="#321d56"/>
 <polygon points="581.8,116.0 584.6,112.0 584.6,121.0 581.8,125.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:53ms">
+<g class="column active" style="--lag:129ms">
 <polygon points="587.2,116.0 590.0,112.0 606.2,112.0 603.5,116.0" fill="#3b2366"/>
 <polygon points="587.2,116.0 603.5,116.0 603.5,125.0 587.2,125.0" fill="#321d56"/>
 <polygon points="603.5,116.0 606.2,112.0 606.2,121.0 603.5,125.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:59ms">
+<g class="column active" style="--lag:134ms">
 <polygon points="608.9,111.0 611.7,107.0 627.9,107.0 625.1,111.0" fill="#643cae"/>
 <polygon points="608.9,111.0 625.1,111.0 625.1,125.0 608.9,125.0" fill="#543292"/>
 <polygon points="625.1,111.0 627.9,107.0 627.9,121.0 625.1,125.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:65ms">
+<g class="column active" style="--lag:139ms">
 <polygon points="630.5,104.0 633.3,100.0 649.5,100.0 646.8,104.0" fill="#8952ee"/>
 <polygon points="630.5,104.0 646.8,104.0 646.8,125.0 630.5,125.0" fill="#7345c8"/>
 <polygon points="646.8,104.0 649.5,100.0 649.5,121.0 646.8,125.0" fill="#543291"/>
 </g>
-<g class="column active" style="--lag:71ms">
+<g class="column active" style="--lag:144ms">
 <polygon points="652.2,116.0 655.0,112.0 671.2,112.0 668.4,116.0" fill="#3b2366"/>
 <polygon points="652.2,116.0 668.4,116.0 668.4,125.0 652.2,125.0" fill="#321d56"/>
 <polygon points="668.4,116.0 671.2,112.0 671.2,121.0 668.4,125.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:77ms">
+<g class="column active" style="--lag:149ms">
 <polygon points="673.8,111.0 676.6,107.0 692.8,107.0 690.0,111.0" fill="#643cae"/>
 <polygon points="673.8,111.0 690.0,111.0 690.0,125.0 673.8,125.0" fill="#543292"/>
 <polygon points="690.0,111.0 692.8,107.0 692.8,121.0 690.0,125.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:83ms">
+<g class="column active" style="--lag:154ms">
 <polygon points="695.5,111.0 698.3,107.0 714.5,107.0 711.7,111.0" fill="#643cae"/>
 <polygon points="695.5,111.0 711.7,111.0 711.7,125.0 695.5,125.0" fill="#543292"/>
 <polygon points="711.7,111.0 714.5,107.0 714.5,121.0 711.7,125.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:89ms">
+<g class="column active" style="--lag:159ms">
 <polygon points="717.1,116.0 719.9,112.0 736.1,112.0 733.4,116.0" fill="#3b2366"/>
 <polygon points="717.1,116.0 733.4,116.0 733.4,125.0 717.1,125.0" fill="#321d56"/>
 <polygon points="733.4,116.0 736.1,112.0 736.1,121.0 733.4,125.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:95ms">
+<g class="column active" style="--lag:164ms">
 <polygon points="738.8,116.0 741.6,112.0 757.8,112.0 755.0,116.0" fill="#3b2366"/>
 <polygon points="738.8,116.0 755.0,116.0 755.0,125.0 738.8,125.0" fill="#321d56"/>
 <polygon points="755.0,116.0 757.8,112.0 757.8,121.0 755.0,125.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:101ms">
+<g class="column active" style="--lag:169ms">
 <polygon points="760.4,96.0 763.2,92.0 779.4,92.0 776.6,96.0" fill="#b897f4"/>
 <polygon points="760.4,96.0 776.6,96.0 776.6,125.0 760.4,125.0" fill="#9b7fcd"/>
 <polygon points="776.6,96.0 779.4,92.0 779.4,121.0 776.6,125.0" fill="#705c95"/>
 </g>
-<g class="column active" style="--lag:107ms">
+<g class="column active" style="--lag:174ms">
 <polygon points="782.1,96.0 784.9,92.0 801.1,92.0 798.3,96.0" fill="#b897f4"/>
 <polygon points="782.1,96.0 798.3,96.0 798.3,125.0 782.1,125.0" fill="#9b7fcd"/>
 <polygon points="798.3,96.0 801.1,92.0 801.1,121.0 798.3,125.0" fill="#705c95"/>
 </g>
-<g class="column active" style="--lag:113ms">
+<g class="column active" style="--lag:179ms">
 <polygon points="803.8,111.0 806.5,107.0 822.8,107.0 820.0,111.0" fill="#643cae"/>
 <polygon points="803.8,111.0 820.0,111.0 820.0,125.0 803.8,125.0" fill="#543292"/>
 <polygon points="820.0,111.0 822.8,107.0 822.8,121.0 820.0,125.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:119ms">
+<g class="column active" style="--lag:184ms">
 <polygon points="825.4,111.0 828.2,107.0 844.4,107.0 841.6,111.0" fill="#643cae"/>
 <polygon points="825.4,111.0 841.6,111.0 841.6,125.0 825.4,125.0" fill="#543292"/>
 <polygon points="841.6,111.0 844.4,107.0 844.4,121.0 841.6,125.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:125ms">
+<g class="column active" style="--lag:189ms">
 <polygon points="847.0,116.0 849.8,112.0 866.0,112.0 863.2,116.0" fill="#3b2366"/>
 <polygon points="847.0,116.0 863.2,116.0 863.2,125.0 847.0,125.0" fill="#321d56"/>
 <polygon points="863.2,116.0 866.0,112.0 866.0,121.0 863.2,125.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:131ms">
+<g class="column active" style="--lag:194ms">
 <polygon points="868.7,104.0 871.5,100.0 887.7,100.0 884.9,104.0" fill="#8952ee"/>
 <polygon points="868.7,104.0 884.9,104.0 884.9,125.0 868.7,125.0" fill="#7345c8"/>
 <polygon points="884.9,104.0 887.7,100.0 887.7,121.0 884.9,125.0" fill="#543291"/>
 </g>
-<g class="column active" style="--lag:137ms">
+<g class="column active" style="--lag:199ms">
 <polygon points="890.3,96.0 893.1,92.0 909.3,92.0 906.5,96.0" fill="#b897f4"/>
 <polygon points="890.3,96.0 906.5,96.0 906.5,125.0 890.3,125.0" fill="#9b7fcd"/>
 <polygon points="906.5,96.0 909.3,92.0 909.3,121.0 906.5,125.0" fill="#705c95"/>
 </g>
-<g class="column active" style="--lag:143ms">
+<g class="column active" style="--lag:204ms">
 <polygon points="912.0,96.0 914.8,92.0 931.0,92.0 928.2,96.0" fill="#b897f4"/>
 <polygon points="912.0,96.0 928.2,96.0 928.2,125.0 912.0,125.0" fill="#9b7fcd"/>
 <polygon points="928.2,96.0 931.0,92.0 931.0,121.0 928.2,125.0" fill="#705c95"/>
 </g>
-<g class="column active" style="--lag:149ms">
+<g class="column active" style="--lag:209ms">
 <polygon points="933.6,104.0 936.4,100.0 952.6,100.0 949.9,104.0" fill="#8952ee"/>
 <polygon points="933.6,104.0 949.9,104.0 949.9,125.0 933.6,125.0" fill="#7345c8"/>
 <polygon points="949.9,104.0 952.6,100.0 952.6,121.0 949.9,125.0" fill="#543291"/>
 </g>
-<g class="column active" style="--lag:155ms">
+<g class="column active" style="--lag:214ms">
 <polygon points="955.3,116.0 958.1,112.0 974.3,112.0 971.5,116.0" fill="#3b2366"/>
 <polygon points="955.3,116.0 971.5,116.0 971.5,125.0 955.3,125.0" fill="#321d56"/>
 <polygon points="971.5,116.0 974.3,112.0 974.3,121.0 971.5,125.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:161ms">
+<g class="column active" style="--lag:219ms">
 <polygon points="976.9,116.0 979.7,112.0 995.9,112.0 993.1,116.0" fill="#3b2366"/>
 <polygon points="976.9,116.0 993.1,116.0 993.1,125.0 976.9,125.0" fill="#321d56"/>
 <polygon points="993.1,116.0 995.9,112.0 995.9,121.0 993.1,125.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:167ms">
+<g class="column active" style="--lag:224ms">
 <polygon points="998.6,111.0 1001.4,107.0 1017.6,107.0 1014.8,111.0" fill="#643cae"/>
 <polygon points="998.6,111.0 1014.8,111.0 1014.8,125.0 998.6,125.0" fill="#543292"/>
 <polygon points="1014.8,111.0 1017.6,107.0 1017.6,121.0 1014.8,125.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:173ms">
+<g class="column active" style="--lag:229ms">
 <polygon points="1020.2,116.0 1023.0,112.0 1039.2,112.0 1036.4,116.0" fill="#3b2366"/>
 <polygon points="1020.2,116.0 1036.4,116.0 1036.4,125.0 1020.2,125.0" fill="#321d56"/>
 <polygon points="1036.4,116.0 1039.2,112.0 1039.2,121.0 1036.4,125.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:179ms">
+<g class="column active" style="--lag:234ms">
 <polygon points="1041.9,111.0 1044.7,107.0 1060.9,107.0 1058.1,111.0" fill="#643cae"/>
 <polygon points="1041.9,111.0 1058.1,111.0 1058.1,125.0 1041.9,125.0" fill="#543292"/>
 <polygon points="1058.1,111.0 1060.9,107.0 1060.9,121.0 1058.1,125.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:185ms">
+<g class="column active" style="--lag:239ms">
 <polygon points="1063.5,104.0 1066.3,100.0 1082.5,100.0 1079.8,104.0" fill="#8952ee"/>
 <polygon points="1063.5,104.0 1079.8,104.0 1079.8,125.0 1063.5,125.0" fill="#7345c8"/>
 <polygon points="1079.8,104.0 1082.5,100.0 1082.5,121.0 1079.8,125.0" fill="#543291"/>
 </g>
-<g class="column active" style="--lag:191ms">
+<g class="column active" style="--lag:244ms">
 <polygon points="1085.2,96.0 1088.0,92.0 1104.2,92.0 1101.4,96.0" fill="#b897f4"/>
 <polygon points="1085.2,96.0 1101.4,96.0 1101.4,125.0 1085.2,125.0" fill="#9b7fcd"/>
 <polygon points="1101.4,96.0 1104.2,92.0 1104.2,121.0 1101.4,125.0" fill="#705c95"/>
 </g>
-<g class="column active" style="--lag:197ms">
+<g class="column active" style="--lag:249ms">
 <polygon points="1106.8,111.0 1109.6,107.0 1125.8,107.0 1123.0,111.0" fill="#643cae"/>
 <polygon points="1106.8,111.0 1123.0,111.0 1123.0,125.0 1106.8,125.0" fill="#543292"/>
 <polygon points="1123.0,111.0 1125.8,107.0 1125.8,121.0 1123.0,125.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:203ms">
+<g class="column active" style="--lag:254ms">
 <polygon points="1128.5,111.0 1131.3,107.0 1147.5,107.0 1144.7,111.0" fill="#643cae"/>
 <polygon points="1128.5,111.0 1144.7,111.0 1144.7,125.0 1128.5,125.0" fill="#543292"/>
 <polygon points="1144.7,111.0 1147.5,107.0 1147.5,121.0 1144.7,125.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:209ms">
+<g class="column active" style="--lag:259ms">
 <polygon points="1150.1,96.0 1152.9,92.0 1169.1,92.0 1166.3,96.0" fill="#b897f4"/>
 <polygon points="1150.1,96.0 1166.3,96.0 1166.3,125.0 1150.1,125.0" fill="#9b7fcd"/>
 <polygon points="1166.3,96.0 1169.1,92.0 1169.1,121.0 1166.3,125.0" fill="#705c95"/>
@@ -634,7 +634,7 @@ text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Ar
 <polygon points="433.7,134.5 449.9,134.5 449.9,140.0 433.7,140.0" fill="var(--empty-front)"/>
 <polygon points="449.9,134.5 452.7,130.5 452.7,136.0 449.9,140.0" fill="var(--empty-side)"/>
 </g>
-<g class="column active" style="--lag:22ms">
+<g class="column active" style="--lag:103ms">
 <polygon points="455.3,131.0 458.1,127.0 474.3,127.0 471.5,131.0" fill="#3b2366"/>
 <polygon points="455.3,131.0 471.5,131.0 471.5,140.0 455.3,140.0" fill="#321d56"/>
 <polygon points="471.5,131.0 474.3,127.0 474.3,136.0 471.5,140.0" fill="#24153e"/>
@@ -649,152 +649,152 @@ text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Ar
 <polygon points="498.6,134.5 514.9,134.5 514.9,140.0 498.6,140.0" fill="var(--empty-front)"/>
 <polygon points="514.9,134.5 517.6,130.5 517.6,136.0 514.9,140.0" fill="var(--empty-side)"/>
 </g>
-<g class="column active" style="--lag:40ms">
+<g class="column active" style="--lag:118ms">
 <polygon points="520.3,131.0 523.1,127.0 539.3,127.0 536.5,131.0" fill="#3b2366"/>
 <polygon points="520.3,131.0 536.5,131.0 536.5,140.0 520.3,140.0" fill="#321d56"/>
 <polygon points="536.5,131.0 539.3,127.0 539.3,136.0 536.5,140.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:46ms">
+<g class="column active" style="--lag:123ms">
 <polygon points="542.0,131.0 544.8,127.0 561.0,127.0 558.2,131.0" fill="#3b2366"/>
 <polygon points="542.0,131.0 558.2,131.0 558.2,140.0 542.0,140.0" fill="#321d56"/>
 <polygon points="558.2,131.0 561.0,127.0 561.0,136.0 558.2,140.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:52ms">
+<g class="column active" style="--lag:128ms">
 <polygon points="563.6,131.0 566.4,127.0 582.6,127.0 579.8,131.0" fill="#3b2366"/>
 <polygon points="563.6,131.0 579.8,131.0 579.8,140.0 563.6,140.0" fill="#321d56"/>
 <polygon points="579.8,131.0 582.6,127.0 582.6,136.0 579.8,140.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:58ms">
+<g class="column active" style="--lag:133ms">
 <polygon points="585.2,126.0 588.0,122.0 604.2,122.0 601.5,126.0" fill="#643cae"/>
 <polygon points="585.2,126.0 601.5,126.0 601.5,140.0 585.2,140.0" fill="#543292"/>
 <polygon points="601.5,126.0 604.2,122.0 604.2,136.0 601.5,140.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:64ms">
+<g class="column active" style="--lag:138ms">
 <polygon points="606.9,131.0 609.7,127.0 625.9,127.0 623.1,131.0" fill="#3b2366"/>
 <polygon points="606.9,131.0 623.1,131.0 623.1,140.0 606.9,140.0" fill="#321d56"/>
 <polygon points="623.1,131.0 625.9,127.0 625.9,136.0 623.1,140.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:70ms">
+<g class="column active" style="--lag:143ms">
 <polygon points="628.5,126.0 631.3,122.0 647.5,122.0 644.8,126.0" fill="#643cae"/>
 <polygon points="628.5,126.0 644.8,126.0 644.8,140.0 628.5,140.0" fill="#543292"/>
 <polygon points="644.8,126.0 647.5,122.0 647.5,136.0 644.8,140.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:76ms">
+<g class="column active" style="--lag:148ms">
 <polygon points="650.2,126.0 653.0,122.0 669.2,122.0 666.4,126.0" fill="#643cae"/>
 <polygon points="650.2,126.0 666.4,126.0 666.4,140.0 650.2,140.0" fill="#543292"/>
 <polygon points="666.4,126.0 669.2,122.0 669.2,136.0 666.4,140.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:82ms">
+<g class="column active" style="--lag:153ms">
 <polygon points="671.8,126.0 674.6,122.0 690.8,122.0 688.0,126.0" fill="#643cae"/>
 <polygon points="671.8,126.0 688.0,126.0 688.0,140.0 671.8,140.0" fill="#543292"/>
 <polygon points="688.0,126.0 690.8,122.0 690.8,136.0 688.0,140.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:88ms">
+<g class="column active" style="--lag:158ms">
 <polygon points="693.5,126.0 696.3,122.0 712.5,122.0 709.7,126.0" fill="#643cae"/>
 <polygon points="693.5,126.0 709.7,126.0 709.7,140.0 693.5,140.0" fill="#543292"/>
 <polygon points="709.7,126.0 712.5,122.0 712.5,136.0 709.7,140.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:94ms">
+<g class="column active" style="--lag:163ms">
 <polygon points="715.1,126.0 717.9,122.0 734.1,122.0 731.4,126.0" fill="#643cae"/>
 <polygon points="715.1,126.0 731.4,126.0 731.4,140.0 715.1,140.0" fill="#543292"/>
 <polygon points="731.4,126.0 734.1,122.0 734.1,136.0 731.4,140.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:100ms">
+<g class="column active" style="--lag:168ms">
 <polygon points="736.8,131.0 739.6,127.0 755.8,127.0 753.0,131.0" fill="#3b2366"/>
 <polygon points="736.8,131.0 753.0,131.0 753.0,140.0 736.8,140.0" fill="#321d56"/>
 <polygon points="753.0,131.0 755.8,127.0 755.8,136.0 753.0,140.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:106ms">
+<g class="column active" style="--lag:173ms">
 <polygon points="758.4,111.0 761.2,107.0 777.4,107.0 774.6,111.0" fill="#b897f4"/>
 <polygon points="758.4,111.0 774.6,111.0 774.6,140.0 758.4,140.0" fill="#9b7fcd"/>
 <polygon points="774.6,111.0 777.4,107.0 777.4,136.0 774.6,140.0" fill="#705c95"/>
 </g>
-<g class="column active" style="--lag:112ms">
+<g class="column active" style="--lag:178ms">
 <polygon points="780.1,126.0 782.9,122.0 799.1,122.0 796.3,126.0" fill="#643cae"/>
 <polygon points="780.1,126.0 796.3,126.0 796.3,140.0 780.1,140.0" fill="#543292"/>
 <polygon points="796.3,126.0 799.1,122.0 799.1,136.0 796.3,140.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:118ms">
+<g class="column active" style="--lag:183ms">
 <polygon points="801.8,111.0 804.5,107.0 820.8,107.0 818.0,111.0" fill="#b897f4"/>
 <polygon points="801.8,111.0 818.0,111.0 818.0,140.0 801.8,140.0" fill="#9b7fcd"/>
 <polygon points="818.0,111.0 820.8,107.0 820.8,136.0 818.0,140.0" fill="#705c95"/>
 </g>
-<g class="column active" style="--lag:124ms">
+<g class="column active" style="--lag:188ms">
 <polygon points="823.4,126.0 826.2,122.0 842.4,122.0 839.6,126.0" fill="#643cae"/>
 <polygon points="823.4,126.0 839.6,126.0 839.6,140.0 823.4,140.0" fill="#543292"/>
 <polygon points="839.6,126.0 842.4,122.0 842.4,136.0 839.6,140.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:130ms">
+<g class="column active" style="--lag:193ms">
 <polygon points="845.0,111.0 847.8,107.0 864.0,107.0 861.2,111.0" fill="#b897f4"/>
 <polygon points="845.0,111.0 861.2,111.0 861.2,140.0 845.0,140.0" fill="#9b7fcd"/>
 <polygon points="861.2,111.0 864.0,107.0 864.0,136.0 861.2,140.0" fill="#705c95"/>
 </g>
-<g class="column active" style="--lag:136ms">
+<g class="column active" style="--lag:198ms">
 <polygon points="866.7,111.0 869.5,107.0 885.7,107.0 882.9,111.0" fill="#b897f4"/>
 <polygon points="866.7,111.0 882.9,111.0 882.9,140.0 866.7,140.0" fill="#9b7fcd"/>
 <polygon points="882.9,111.0 885.7,107.0 885.7,136.0 882.9,140.0" fill="#705c95"/>
 </g>
-<g class="column active" style="--lag:142ms">
+<g class="column active" style="--lag:203ms">
 <polygon points="888.3,111.0 891.1,107.0 907.3,107.0 904.5,111.0" fill="#b897f4"/>
 <polygon points="888.3,111.0 904.5,111.0 904.5,140.0 888.3,140.0" fill="#9b7fcd"/>
 <polygon points="904.5,111.0 907.3,107.0 907.3,136.0 904.5,140.0" fill="#705c95"/>
 </g>
-<g class="column active" style="--lag:148ms">
+<g class="column active" style="--lag:208ms">
 <polygon points="910.0,126.0 912.8,122.0 929.0,122.0 926.2,126.0" fill="#643cae"/>
 <polygon points="910.0,126.0 926.2,126.0 926.2,140.0 910.0,140.0" fill="#543292"/>
 <polygon points="926.2,126.0 929.0,122.0 929.0,136.0 926.2,140.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:154ms">
+<g class="column active" style="--lag:213ms">
 <polygon points="931.6,111.0 934.4,107.0 950.6,107.0 947.9,111.0" fill="#b897f4"/>
 <polygon points="931.6,111.0 947.9,111.0 947.9,140.0 931.6,140.0" fill="#9b7fcd"/>
 <polygon points="947.9,111.0 950.6,107.0 950.6,136.0 947.9,140.0" fill="#705c95"/>
 </g>
-<g class="column active" style="--lag:160ms">
+<g class="column active" style="--lag:218ms">
 <polygon points="953.3,131.0 956.1,127.0 972.3,127.0 969.5,131.0" fill="#3b2366"/>
 <polygon points="953.3,131.0 969.5,131.0 969.5,140.0 953.3,140.0" fill="#321d56"/>
 <polygon points="969.5,131.0 972.3,127.0 972.3,136.0 969.5,140.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:166ms">
+<g class="column active" style="--lag:223ms">
 <polygon points="974.9,126.0 977.7,122.0 993.9,122.0 991.1,126.0" fill="#643cae"/>
 <polygon points="974.9,126.0 991.1,126.0 991.1,140.0 974.9,140.0" fill="#543292"/>
 <polygon points="991.1,126.0 993.9,122.0 993.9,136.0 991.1,140.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:172ms">
+<g class="column active" style="--lag:228ms">
 <polygon points="996.6,131.0 999.4,127.0 1015.6,127.0 1012.8,131.0" fill="#3b2366"/>
 <polygon points="996.6,131.0 1012.8,131.0 1012.8,140.0 996.6,140.0" fill="#321d56"/>
 <polygon points="1012.8,131.0 1015.6,127.0 1015.6,136.0 1012.8,140.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:178ms">
+<g class="column active" style="--lag:233ms">
 <polygon points="1018.2,119.0 1021.0,115.0 1037.2,115.0 1034.4,119.0" fill="#8952ee"/>
 <polygon points="1018.2,119.0 1034.4,119.0 1034.4,140.0 1018.2,140.0" fill="#7345c8"/>
 <polygon points="1034.4,119.0 1037.2,115.0 1037.2,136.0 1034.4,140.0" fill="#543291"/>
 </g>
-<g class="column active" style="--lag:184ms">
+<g class="column active" style="--lag:238ms">
 <polygon points="1039.9,126.0 1042.7,122.0 1058.9,122.0 1056.1,126.0" fill="#643cae"/>
 <polygon points="1039.9,126.0 1056.1,126.0 1056.1,140.0 1039.9,140.0" fill="#543292"/>
 <polygon points="1056.1,126.0 1058.9,122.0 1058.9,136.0 1056.1,140.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:190ms">
+<g class="column active" style="--lag:243ms">
 <polygon points="1061.5,126.0 1064.3,122.0 1080.5,122.0 1077.8,126.0" fill="#643cae"/>
 <polygon points="1061.5,126.0 1077.8,126.0 1077.8,140.0 1061.5,140.0" fill="#543292"/>
 <polygon points="1077.8,126.0 1080.5,122.0 1080.5,136.0 1077.8,140.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:196ms">
+<g class="column active" style="--lag:248ms">
 <polygon points="1083.2,119.0 1086.0,115.0 1102.2,115.0 1099.4,119.0" fill="#8952ee"/>
 <polygon points="1083.2,119.0 1099.4,119.0 1099.4,140.0 1083.2,140.0" fill="#7345c8"/>
 <polygon points="1099.4,119.0 1102.2,115.0 1102.2,136.0 1099.4,140.0" fill="#543291"/>
 </g>
-<g class="column active" style="--lag:202ms">
+<g class="column active" style="--lag:253ms">
 <polygon points="1104.8,126.0 1107.6,122.0 1123.8,122.0 1121.0,126.0" fill="#643cae"/>
 <polygon points="1104.8,126.0 1121.0,126.0 1121.0,140.0 1104.8,140.0" fill="#543292"/>
 <polygon points="1121.0,126.0 1123.8,122.0 1123.8,136.0 1121.0,140.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:208ms">
+<g class="column active" style="--lag:258ms">
 <polygon points="1126.5,119.0 1129.3,115.0 1145.5,115.0 1142.7,119.0" fill="#8952ee"/>
 <polygon points="1126.5,119.0 1142.7,119.0 1142.7,140.0 1126.5,140.0" fill="#7345c8"/>
 <polygon points="1142.7,119.0 1145.5,115.0 1145.5,136.0 1142.7,140.0" fill="#543291"/>
 </g>
-<g class="column active" style="--lag:214ms">
+<g class="column active" style="--lag:263ms">
 <polygon points="1148.1,111.0 1150.9,107.0 1167.1,107.0 1164.3,111.0" fill="#b897f4"/>
 <polygon points="1148.1,111.0 1164.3,111.0 1164.3,140.0 1148.1,140.0" fill="#9b7fcd"/>
 <polygon points="1164.3,111.0 1167.1,107.0 1167.1,136.0 1164.3,140.0" fill="#705c95"/>
@@ -889,7 +889,7 @@ text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Ar
 <polygon points="410.0,149.5 426.2,149.5 426.2,155.0 410.0,155.0" fill="var(--empty-front)"/>
 <polygon points="426.2,149.5 429.0,145.5 429.0,151.0 426.2,155.0" fill="var(--empty-side)"/>
 </g>
-<g class="column active" style="--lag:21ms">
+<g class="column active" style="--lag:102ms">
 <polygon points="431.7,146.0 434.5,142.0 450.7,142.0 447.9,146.0" fill="#3b2366"/>
 <polygon points="431.7,146.0 447.9,146.0 447.9,155.0 431.7,155.0" fill="#321d56"/>
 <polygon points="447.9,146.0 450.7,142.0 450.7,151.0 447.9,155.0" fill="#24153e"/>
@@ -909,152 +909,152 @@ text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Ar
 <polygon points="496.6,149.5 512.9,149.5 512.9,155.0 496.6,155.0" fill="var(--empty-front)"/>
 <polygon points="512.9,149.5 515.6,145.5 515.6,151.0 512.9,155.0" fill="var(--empty-side)"/>
 </g>
-<g class="column active" style="--lag:45ms">
+<g class="column active" style="--lag:122ms">
 <polygon points="518.3,146.0 521.1,142.0 537.3,142.0 534.5,146.0" fill="#3b2366"/>
 <polygon points="518.3,146.0 534.5,146.0 534.5,155.0 518.3,155.0" fill="#321d56"/>
 <polygon points="534.5,146.0 537.3,142.0 537.3,151.0 534.5,155.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:51ms">
+<g class="column active" style="--lag:127ms">
 <polygon points="540.0,146.0 542.8,142.0 559.0,142.0 556.2,146.0" fill="#3b2366"/>
 <polygon points="540.0,146.0 556.2,146.0 556.2,155.0 540.0,155.0" fill="#321d56"/>
 <polygon points="556.2,146.0 559.0,142.0 559.0,151.0 556.2,155.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:57ms">
+<g class="column active" style="--lag:132ms">
 <polygon points="561.6,134.0 564.4,130.0 580.6,130.0 577.8,134.0" fill="#8952ee"/>
 <polygon points="561.6,134.0 577.8,134.0 577.8,155.0 561.6,155.0" fill="#7345c8"/>
 <polygon points="577.8,134.0 580.6,130.0 580.6,151.0 577.8,155.0" fill="#543291"/>
 </g>
-<g class="column active" style="--lag:63ms">
+<g class="column active" style="--lag:137ms">
 <polygon points="583.2,141.0 586.0,137.0 602.2,137.0 599.5,141.0" fill="#643cae"/>
 <polygon points="583.2,141.0 599.5,141.0 599.5,155.0 583.2,155.0" fill="#543292"/>
 <polygon points="599.5,141.0 602.2,137.0 602.2,151.0 599.5,155.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:69ms">
+<g class="column active" style="--lag:142ms">
 <polygon points="604.9,146.0 607.7,142.0 623.9,142.0 621.1,146.0" fill="#3b2366"/>
 <polygon points="604.9,146.0 621.1,146.0 621.1,155.0 604.9,155.0" fill="#321d56"/>
 <polygon points="621.1,146.0 623.9,142.0 623.9,151.0 621.1,155.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:75ms">
+<g class="column active" style="--lag:147ms">
 <polygon points="626.5,141.0 629.3,137.0 645.5,137.0 642.8,141.0" fill="#643cae"/>
 <polygon points="626.5,141.0 642.8,141.0 642.8,155.0 626.5,155.0" fill="#543292"/>
 <polygon points="642.8,141.0 645.5,137.0 645.5,151.0 642.8,155.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:81ms">
+<g class="column active" style="--lag:152ms">
 <polygon points="648.2,141.0 651.0,137.0 667.2,137.0 664.4,141.0" fill="#643cae"/>
 <polygon points="648.2,141.0 664.4,141.0 664.4,155.0 648.2,155.0" fill="#543292"/>
 <polygon points="664.4,141.0 667.2,137.0 667.2,151.0 664.4,155.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:87ms">
+<g class="column active" style="--lag:157ms">
 <polygon points="669.8,141.0 672.6,137.0 688.8,137.0 686.0,141.0" fill="#643cae"/>
 <polygon points="669.8,141.0 686.0,141.0 686.0,155.0 669.8,155.0" fill="#543292"/>
 <polygon points="686.0,141.0 688.8,137.0 688.8,151.0 686.0,155.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:93ms">
+<g class="column active" style="--lag:162ms">
 <polygon points="691.5,141.0 694.3,137.0 710.5,137.0 707.7,141.0" fill="#643cae"/>
 <polygon points="691.5,141.0 707.7,141.0 707.7,155.0 691.5,155.0" fill="#543292"/>
 <polygon points="707.7,141.0 710.5,137.0 710.5,151.0 707.7,155.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:99ms">
+<g class="column active" style="--lag:167ms">
 <polygon points="713.1,146.0 715.9,142.0 732.1,142.0 729.4,146.0" fill="#3b2366"/>
 <polygon points="713.1,146.0 729.4,146.0 729.4,155.0 713.1,155.0" fill="#321d56"/>
 <polygon points="729.4,146.0 732.1,142.0 732.1,151.0 729.4,155.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:105ms">
+<g class="column active" style="--lag:172ms">
 <polygon points="734.8,141.0 737.6,137.0 753.8,137.0 751.0,141.0" fill="#643cae"/>
 <polygon points="734.8,141.0 751.0,141.0 751.0,155.0 734.8,155.0" fill="#543292"/>
 <polygon points="751.0,141.0 753.8,137.0 753.8,151.0 751.0,155.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:111ms">
+<g class="column active" style="--lag:177ms">
 <polygon points="756.4,134.0 759.2,130.0 775.4,130.0 772.6,134.0" fill="#8952ee"/>
 <polygon points="756.4,134.0 772.6,134.0 772.6,155.0 756.4,155.0" fill="#7345c8"/>
 <polygon points="772.6,134.0 775.4,130.0 775.4,151.0 772.6,155.0" fill="#543291"/>
 </g>
-<g class="column active" style="--lag:117ms">
+<g class="column active" style="--lag:182ms">
 <polygon points="778.1,126.0 780.9,122.0 797.1,122.0 794.3,126.0" fill="#b897f4"/>
 <polygon points="778.1,126.0 794.3,126.0 794.3,155.0 778.1,155.0" fill="#9b7fcd"/>
 <polygon points="794.3,126.0 797.1,122.0 797.1,151.0 794.3,155.0" fill="#705c95"/>
 </g>
-<g class="column active" style="--lag:123ms">
+<g class="column active" style="--lag:187ms">
 <polygon points="799.8,134.0 802.5,130.0 818.8,130.0 816.0,134.0" fill="#8952ee"/>
 <polygon points="799.8,134.0 816.0,134.0 816.0,155.0 799.8,155.0" fill="#7345c8"/>
 <polygon points="816.0,134.0 818.8,130.0 818.8,151.0 816.0,155.0" fill="#543291"/>
 </g>
-<g class="column active" style="--lag:129ms">
+<g class="column active" style="--lag:192ms">
 <polygon points="821.4,141.0 824.2,137.0 840.4,137.0 837.6,141.0" fill="#643cae"/>
 <polygon points="821.4,141.0 837.6,141.0 837.6,155.0 821.4,155.0" fill="#543292"/>
 <polygon points="837.6,141.0 840.4,137.0 840.4,151.0 837.6,155.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:135ms">
+<g class="column active" style="--lag:197ms">
 <polygon points="843.0,146.0 845.8,142.0 862.0,142.0 859.2,146.0" fill="#3b2366"/>
 <polygon points="843.0,146.0 859.2,146.0 859.2,155.0 843.0,155.0" fill="#321d56"/>
 <polygon points="859.2,146.0 862.0,142.0 862.0,151.0 859.2,155.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:141ms">
+<g class="column active" style="--lag:202ms">
 <polygon points="864.7,134.0 867.5,130.0 883.7,130.0 880.9,134.0" fill="#8952ee"/>
 <polygon points="864.7,134.0 880.9,134.0 880.9,155.0 864.7,155.0" fill="#7345c8"/>
 <polygon points="880.9,134.0 883.7,130.0 883.7,151.0 880.9,155.0" fill="#543291"/>
 </g>
-<g class="column active" style="--lag:147ms">
+<g class="column active" style="--lag:207ms">
 <polygon points="886.3,126.0 889.1,122.0 905.3,122.0 902.5,126.0" fill="#b897f4"/>
 <polygon points="886.3,126.0 902.5,126.0 902.5,155.0 886.3,155.0" fill="#9b7fcd"/>
 <polygon points="902.5,126.0 905.3,122.0 905.3,151.0 902.5,155.0" fill="#705c95"/>
 </g>
-<g class="column active" style="--lag:153ms">
+<g class="column active" style="--lag:212ms">
 <polygon points="908.0,126.0 910.8,122.0 927.0,122.0 924.2,126.0" fill="#b897f4"/>
 <polygon points="908.0,126.0 924.2,126.0 924.2,155.0 908.0,155.0" fill="#9b7fcd"/>
 <polygon points="924.2,126.0 927.0,122.0 927.0,151.0 924.2,155.0" fill="#705c95"/>
 </g>
-<g class="column active" style="--lag:159ms">
+<g class="column active" style="--lag:217ms">
 <polygon points="929.6,141.0 932.4,137.0 948.6,137.0 945.9,141.0" fill="#643cae"/>
 <polygon points="929.6,141.0 945.9,141.0 945.9,155.0 929.6,155.0" fill="#543292"/>
 <polygon points="945.9,141.0 948.6,137.0 948.6,151.0 945.9,155.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:165ms">
+<g class="column active" style="--lag:222ms">
 <polygon points="951.3,141.0 954.1,137.0 970.3,137.0 967.5,141.0" fill="#643cae"/>
 <polygon points="951.3,141.0 967.5,141.0 967.5,155.0 951.3,155.0" fill="#543292"/>
 <polygon points="967.5,141.0 970.3,137.0 970.3,151.0 967.5,155.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:171ms">
+<g class="column active" style="--lag:227ms">
 <polygon points="972.9,141.0 975.7,137.0 991.9,137.0 989.1,141.0" fill="#643cae"/>
 <polygon points="972.9,141.0 989.1,141.0 989.1,155.0 972.9,155.0" fill="#543292"/>
 <polygon points="989.1,141.0 991.9,137.0 991.9,151.0 989.1,155.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:177ms">
+<g class="column active" style="--lag:232ms">
 <polygon points="994.6,141.0 997.4,137.0 1013.6,137.0 1010.8,141.0" fill="#643cae"/>
 <polygon points="994.6,141.0 1010.8,141.0 1010.8,155.0 994.6,155.0" fill="#543292"/>
 <polygon points="1010.8,141.0 1013.6,137.0 1013.6,151.0 1010.8,155.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:183ms">
+<g class="column active" style="--lag:237ms">
 <polygon points="1016.2,126.0 1019.0,122.0 1035.2,122.0 1032.4,126.0" fill="#b897f4"/>
 <polygon points="1016.2,126.0 1032.4,126.0 1032.4,155.0 1016.2,155.0" fill="#9b7fcd"/>
 <polygon points="1032.4,126.0 1035.2,122.0 1035.2,151.0 1032.4,155.0" fill="#705c95"/>
 </g>
-<g class="column active" style="--lag:189ms">
+<g class="column active" style="--lag:242ms">
 <polygon points="1037.9,141.0 1040.7,137.0 1056.9,137.0 1054.1,141.0" fill="#643cae"/>
 <polygon points="1037.9,141.0 1054.1,141.0 1054.1,155.0 1037.9,155.0" fill="#543292"/>
 <polygon points="1054.1,141.0 1056.9,137.0 1056.9,151.0 1054.1,155.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:195ms">
+<g class="column active" style="--lag:247ms">
 <polygon points="1059.5,134.0 1062.3,130.0 1078.5,130.0 1075.8,134.0" fill="#8952ee"/>
 <polygon points="1059.5,134.0 1075.8,134.0 1075.8,155.0 1059.5,155.0" fill="#7345c8"/>
 <polygon points="1075.8,134.0 1078.5,130.0 1078.5,151.0 1075.8,155.0" fill="#543291"/>
 </g>
-<g class="column active" style="--lag:201ms">
+<g class="column active" style="--lag:252ms">
 <polygon points="1081.2,134.0 1084.0,130.0 1100.2,130.0 1097.4,134.0" fill="#8952ee"/>
 <polygon points="1081.2,134.0 1097.4,134.0 1097.4,155.0 1081.2,155.0" fill="#7345c8"/>
 <polygon points="1097.4,134.0 1100.2,130.0 1100.2,151.0 1097.4,155.0" fill="#543291"/>
 </g>
-<g class="column active" style="--lag:207ms">
+<g class="column active" style="--lag:257ms">
 <polygon points="1102.8,126.0 1105.6,122.0 1121.8,122.0 1119.0,126.0" fill="#b897f4"/>
 <polygon points="1102.8,126.0 1119.0,126.0 1119.0,155.0 1102.8,155.0" fill="#9b7fcd"/>
 <polygon points="1119.0,126.0 1121.8,122.0 1121.8,151.0 1119.0,155.0" fill="#705c95"/>
 </g>
-<g class="column active" style="--lag:213ms">
+<g class="column active" style="--lag:262ms">
 <polygon points="1124.5,126.0 1127.3,122.0 1143.5,122.0 1140.7,126.0" fill="#b897f4"/>
 <polygon points="1124.5,126.0 1140.7,126.0 1140.7,155.0 1124.5,155.0" fill="#9b7fcd"/>
 <polygon points="1140.7,126.0 1143.5,122.0 1143.5,151.0 1140.7,155.0" fill="#705c95"/>
 </g>
-<g class="column active" style="--lag:219ms">
+<g class="column active" style="--lag:267ms">
 <polygon points="1146.1,134.0 1148.9,130.0 1165.1,130.0 1162.3,134.0" fill="#8952ee"/>
 <polygon points="1146.1,134.0 1162.3,134.0 1162.3,155.0 1146.1,155.0" fill="#7345c8"/>
 <polygon points="1162.3,134.0 1165.1,130.0 1165.1,151.0 1162.3,155.0" fill="#543291"/>
@@ -1149,7 +1149,7 @@ text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Ar
 <polygon points="408.0,164.5 424.2,164.5 424.2,170.0 408.0,170.0" fill="var(--empty-front)"/>
 <polygon points="424.2,164.5 427.0,160.5 427.0,166.0 424.2,170.0" fill="var(--empty-side)"/>
 </g>
-<g class="column active" style="--lag:26ms">
+<g class="column active" style="--lag:106ms">
 <polygon points="429.7,161.0 432.5,157.0 448.7,157.0 445.9,161.0" fill="#3b2366"/>
 <polygon points="429.7,161.0 445.9,161.0 445.9,170.0 429.7,170.0" fill="#321d56"/>
 <polygon points="445.9,161.0 448.7,157.0 448.7,166.0 445.9,170.0" fill="#24153e"/>
@@ -1164,157 +1164,157 @@ text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Ar
 <polygon points="473.0,164.5 489.2,164.5 489.2,170.0 473.0,170.0" fill="var(--empty-front)"/>
 <polygon points="489.2,164.5 492.0,160.5 492.0,166.0 489.2,170.0" fill="var(--empty-side)"/>
 </g>
-<g class="column active" style="--lag:44ms">
+<g class="column active" style="--lag:121ms">
 <polygon points="494.6,161.0 497.4,157.0 513.6,157.0 510.8,161.0" fill="#3b2366"/>
 <polygon points="494.6,161.0 510.8,161.0 510.8,170.0 494.6,170.0" fill="#321d56"/>
 <polygon points="510.8,161.0 513.6,157.0 513.6,166.0 510.8,170.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:50ms">
+<g class="column active" style="--lag:126ms">
 <polygon points="516.3,161.0 519.1,157.0 535.3,157.0 532.5,161.0" fill="#3b2366"/>
 <polygon points="516.3,161.0 532.5,161.0 532.5,170.0 516.3,170.0" fill="#321d56"/>
 <polygon points="532.5,161.0 535.3,157.0 535.3,166.0 532.5,170.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:56ms">
+<g class="column active" style="--lag:131ms">
 <polygon points="538.0,161.0 540.8,157.0 557.0,157.0 554.2,161.0" fill="#3b2366"/>
 <polygon points="538.0,161.0 554.2,161.0 554.2,170.0 538.0,170.0" fill="#321d56"/>
 <polygon points="554.2,161.0 557.0,157.0 557.0,166.0 554.2,170.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:62ms">
+<g class="column active" style="--lag:136ms">
 <polygon points="559.6,156.0 562.4,152.0 578.6,152.0 575.8,156.0" fill="#643cae"/>
 <polygon points="559.6,156.0 575.8,156.0 575.8,170.0 559.6,170.0" fill="#543292"/>
 <polygon points="575.8,156.0 578.6,152.0 578.6,166.0 575.8,170.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:68ms">
+<g class="column active" style="--lag:141ms">
 <polygon points="581.2,156.0 584.0,152.0 600.2,152.0 597.5,156.0" fill="#643cae"/>
 <polygon points="581.2,156.0 597.5,156.0 597.5,170.0 581.2,170.0" fill="#543292"/>
 <polygon points="597.5,156.0 600.2,152.0 600.2,166.0 597.5,170.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:74ms">
+<g class="column active" style="--lag:146ms">
 <polygon points="602.9,156.0 605.7,152.0 621.9,152.0 619.1,156.0" fill="#643cae"/>
 <polygon points="602.9,156.0 619.1,156.0 619.1,170.0 602.9,170.0" fill="#543292"/>
 <polygon points="619.1,156.0 621.9,152.0 621.9,166.0 619.1,170.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:80ms">
+<g class="column active" style="--lag:151ms">
 <polygon points="624.5,156.0 627.3,152.0 643.5,152.0 640.8,156.0" fill="#643cae"/>
 <polygon points="624.5,156.0 640.8,156.0 640.8,170.0 624.5,170.0" fill="#543292"/>
 <polygon points="640.8,156.0 643.5,152.0 643.5,166.0 640.8,170.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:86ms">
+<g class="column active" style="--lag:156ms">
 <polygon points="646.2,161.0 649.0,157.0 665.2,157.0 662.4,161.0" fill="#3b2366"/>
 <polygon points="646.2,161.0 662.4,161.0 662.4,170.0 646.2,170.0" fill="#321d56"/>
 <polygon points="662.4,161.0 665.2,157.0 665.2,166.0 662.4,170.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:92ms">
+<g class="column active" style="--lag:161ms">
 <polygon points="667.8,149.0 670.6,145.0 686.8,145.0 684.0,149.0" fill="#8952ee"/>
 <polygon points="667.8,149.0 684.0,149.0 684.0,170.0 667.8,170.0" fill="#7345c8"/>
 <polygon points="684.0,149.0 686.8,145.0 686.8,166.0 684.0,170.0" fill="#543291"/>
 </g>
-<g class="column active" style="--lag:98ms">
+<g class="column active" style="--lag:166ms">
 <polygon points="689.5,149.0 692.3,145.0 708.5,145.0 705.7,149.0" fill="#8952ee"/>
 <polygon points="689.5,149.0 705.7,149.0 705.7,170.0 689.5,170.0" fill="#7345c8"/>
 <polygon points="705.7,149.0 708.5,145.0 708.5,166.0 705.7,170.0" fill="#543291"/>
 </g>
-<g class="column active" style="--lag:104ms">
+<g class="column active" style="--lag:171ms">
 <polygon points="711.1,161.0 713.9,157.0 730.1,157.0 727.4,161.0" fill="#3b2366"/>
 <polygon points="711.1,161.0 727.4,161.0 727.4,170.0 711.1,170.0" fill="#321d56"/>
 <polygon points="727.4,161.0 730.1,157.0 730.1,166.0 727.4,170.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:110ms">
+<g class="column active" style="--lag:176ms">
 <polygon points="732.8,149.0 735.6,145.0 751.8,145.0 749.0,149.0" fill="#8952ee"/>
 <polygon points="732.8,149.0 749.0,149.0 749.0,170.0 732.8,170.0" fill="#7345c8"/>
 <polygon points="749.0,149.0 751.8,145.0 751.8,166.0 749.0,170.0" fill="#543291"/>
 </g>
-<g class="column active" style="--lag:116ms">
+<g class="column active" style="--lag:181ms">
 <polygon points="754.4,141.0 757.2,137.0 773.4,137.0 770.6,141.0" fill="#b897f4"/>
 <polygon points="754.4,141.0 770.6,141.0 770.6,170.0 754.4,170.0" fill="#9b7fcd"/>
 <polygon points="770.6,141.0 773.4,137.0 773.4,166.0 770.6,170.0" fill="#705c95"/>
 </g>
-<g class="column active" style="--lag:122ms">
+<g class="column active" style="--lag:186ms">
 <polygon points="776.1,149.0 778.9,145.0 795.1,145.0 792.3,149.0" fill="#8952ee"/>
 <polygon points="776.1,149.0 792.3,149.0 792.3,170.0 776.1,170.0" fill="#7345c8"/>
 <polygon points="792.3,149.0 795.1,145.0 795.1,166.0 792.3,170.0" fill="#543291"/>
 </g>
-<g class="column active" style="--lag:128ms">
+<g class="column active" style="--lag:191ms">
 <polygon points="797.8,149.0 800.5,145.0 816.8,145.0 814.0,149.0" fill="#8952ee"/>
 <polygon points="797.8,149.0 814.0,149.0 814.0,170.0 797.8,170.0" fill="#7345c8"/>
 <polygon points="814.0,149.0 816.8,145.0 816.8,166.0 814.0,170.0" fill="#543291"/>
 </g>
-<g class="column active" style="--lag:134ms">
+<g class="column active" style="--lag:196ms">
 <polygon points="819.4,156.0 822.2,152.0 838.4,152.0 835.6,156.0" fill="#643cae"/>
 <polygon points="819.4,156.0 835.6,156.0 835.6,170.0 819.4,170.0" fill="#543292"/>
 <polygon points="835.6,156.0 838.4,152.0 838.4,166.0 835.6,170.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:140ms">
+<g class="column active" style="--lag:201ms">
 <polygon points="841.0,161.0 843.8,157.0 860.0,157.0 857.2,161.0" fill="#3b2366"/>
 <polygon points="841.0,161.0 857.2,161.0 857.2,170.0 841.0,170.0" fill="#321d56"/>
 <polygon points="857.2,161.0 860.0,157.0 860.0,166.0 857.2,170.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:146ms">
+<g class="column active" style="--lag:206ms">
 <polygon points="862.7,156.0 865.5,152.0 881.7,152.0 878.9,156.0" fill="#643cae"/>
 <polygon points="862.7,156.0 878.9,156.0 878.9,170.0 862.7,170.0" fill="#543292"/>
 <polygon points="878.9,156.0 881.7,152.0 881.7,166.0 878.9,170.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:152ms">
+<g class="column active" style="--lag:211ms">
 <polygon points="884.3,149.0 887.1,145.0 903.3,145.0 900.5,149.0" fill="#8952ee"/>
 <polygon points="884.3,149.0 900.5,149.0 900.5,170.0 884.3,170.0" fill="#7345c8"/>
 <polygon points="900.5,149.0 903.3,145.0 903.3,166.0 900.5,170.0" fill="#543291"/>
 </g>
-<g class="column active" style="--lag:158ms">
+<g class="column active" style="--lag:216ms">
 <polygon points="906.0,141.0 908.8,137.0 925.0,137.0 922.2,141.0" fill="#b897f4"/>
 <polygon points="906.0,141.0 922.2,141.0 922.2,170.0 906.0,170.0" fill="#9b7fcd"/>
 <polygon points="922.2,141.0 925.0,137.0 925.0,166.0 922.2,170.0" fill="#705c95"/>
 </g>
-<g class="column active" style="--lag:164ms">
+<g class="column active" style="--lag:221ms">
 <polygon points="927.6,156.0 930.4,152.0 946.6,152.0 943.9,156.0" fill="#643cae"/>
 <polygon points="927.6,156.0 943.9,156.0 943.9,170.0 927.6,170.0" fill="#543292"/>
 <polygon points="943.9,156.0 946.6,152.0 946.6,166.0 943.9,170.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:170ms">
+<g class="column active" style="--lag:226ms">
 <polygon points="949.3,149.0 952.1,145.0 968.3,145.0 965.5,149.0" fill="#8952ee"/>
 <polygon points="949.3,149.0 965.5,149.0 965.5,170.0 949.3,170.0" fill="#7345c8"/>
 <polygon points="965.5,149.0 968.3,145.0 968.3,166.0 965.5,170.0" fill="#543291"/>
 </g>
-<g class="column active" style="--lag:176ms">
+<g class="column active" style="--lag:231ms">
 <polygon points="970.9,156.0 973.7,152.0 989.9,152.0 987.1,156.0" fill="#643cae"/>
 <polygon points="970.9,156.0 987.1,156.0 987.1,170.0 970.9,170.0" fill="#543292"/>
 <polygon points="987.1,156.0 989.9,152.0 989.9,166.0 987.1,170.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:182ms">
+<g class="column active" style="--lag:236ms">
 <polygon points="992.6,149.0 995.4,145.0 1011.6,145.0 1008.8,149.0" fill="#8952ee"/>
 <polygon points="992.6,149.0 1008.8,149.0 1008.8,170.0 992.6,170.0" fill="#7345c8"/>
 <polygon points="1008.8,149.0 1011.6,145.0 1011.6,166.0 1008.8,170.0" fill="#543291"/>
 </g>
-<g class="column active" style="--lag:188ms">
+<g class="column active" style="--lag:241ms">
 <polygon points="1014.2,156.0 1017.0,152.0 1033.2,152.0 1030.4,156.0" fill="#643cae"/>
 <polygon points="1014.2,156.0 1030.4,156.0 1030.4,170.0 1014.2,170.0" fill="#543292"/>
 <polygon points="1030.4,156.0 1033.2,152.0 1033.2,166.0 1030.4,170.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:194ms">
+<g class="column active" style="--lag:246ms">
 <polygon points="1035.9,141.0 1038.7,137.0 1054.9,137.0 1052.1,141.0" fill="#b897f4"/>
 <polygon points="1035.9,141.0 1052.1,141.0 1052.1,170.0 1035.9,170.0" fill="#9b7fcd"/>
 <polygon points="1052.1,141.0 1054.9,137.0 1054.9,166.0 1052.1,170.0" fill="#705c95"/>
 </g>
-<g class="column active" style="--lag:200ms">
+<g class="column active" style="--lag:251ms">
 <polygon points="1057.5,141.0 1060.3,137.0 1076.5,137.0 1073.8,141.0" fill="#b897f4"/>
 <polygon points="1057.5,141.0 1073.8,141.0 1073.8,170.0 1057.5,170.0" fill="#9b7fcd"/>
 <polygon points="1073.8,141.0 1076.5,137.0 1076.5,166.0 1073.8,170.0" fill="#705c95"/>
 </g>
-<g class="column active" style="--lag:206ms">
+<g class="column active" style="--lag:256ms">
 <polygon points="1079.2,141.0 1082.0,137.0 1098.2,137.0 1095.4,141.0" fill="#b897f4"/>
 <polygon points="1079.2,141.0 1095.4,141.0 1095.4,170.0 1079.2,170.0" fill="#9b7fcd"/>
 <polygon points="1095.4,141.0 1098.2,137.0 1098.2,166.0 1095.4,170.0" fill="#705c95"/>
 </g>
-<g class="column active" style="--lag:212ms">
+<g class="column active" style="--lag:261ms">
 <polygon points="1100.8,149.0 1103.6,145.0 1119.8,145.0 1117.0,149.0" fill="#8952ee"/>
 <polygon points="1100.8,149.0 1117.0,149.0 1117.0,170.0 1100.8,170.0" fill="#7345c8"/>
 <polygon points="1117.0,149.0 1119.8,145.0 1119.8,166.0 1117.0,170.0" fill="#543291"/>
 </g>
-<g class="column active" style="--lag:218ms">
+<g class="column active" style="--lag:266ms">
 <polygon points="1122.5,141.0 1125.3,137.0 1141.5,137.0 1138.7,141.0" fill="#b897f4"/>
 <polygon points="1122.5,141.0 1138.7,141.0 1138.7,170.0 1122.5,170.0" fill="#9b7fcd"/>
 <polygon points="1138.7,141.0 1141.5,137.0 1141.5,166.0 1138.7,170.0" fill="#705c95"/>
 </g>
-<g class="column active" style="--lag:224ms">
+<g class="column active" style="--lag:271ms">
 <polygon points="1144.1,141.0 1146.9,137.0 1163.1,137.0 1160.3,141.0" fill="#b897f4"/>
 <polygon points="1144.1,141.0 1160.3,141.0 1160.3,170.0 1144.1,170.0" fill="#9b7fcd"/>
 <polygon points="1160.3,141.0 1163.1,137.0 1163.1,166.0 1160.3,170.0" fill="#705c95"/>
@@ -1404,12 +1404,12 @@ text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Ar
 <polygon points="384.4,179.5 400.6,179.5 400.6,185.0 384.4,185.0" fill="var(--empty-front)"/>
 <polygon points="400.6,179.5 403.4,175.5 403.4,181.0 400.6,185.0" fill="var(--empty-side)"/>
 </g>
-<g class="column active" style="--lag:25ms">
+<g class="column active" style="--lag:105ms">
 <polygon points="406.0,176.0 408.8,172.0 425.0,172.0 422.2,176.0" fill="#3b2366"/>
 <polygon points="406.0,176.0 422.2,176.0 422.2,185.0 406.0,185.0" fill="#321d56"/>
 <polygon points="422.2,176.0 425.0,172.0 425.0,181.0 422.2,185.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:31ms">
+<g class="column active" style="--lag:110ms">
 <polygon points="427.7,176.0 430.5,172.0 446.7,172.0 443.9,176.0" fill="#3b2366"/>
 <polygon points="427.7,176.0 443.9,176.0 443.9,185.0 427.7,185.0" fill="#321d56"/>
 <polygon points="443.9,176.0 446.7,172.0 446.7,181.0 443.9,185.0" fill="#24153e"/>
@@ -1424,152 +1424,152 @@ text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Ar
 <polygon points="471.0,179.5 487.2,179.5 487.2,185.0 471.0,185.0" fill="var(--empty-front)"/>
 <polygon points="487.2,179.5 490.0,175.5 490.0,181.0 487.2,185.0" fill="var(--empty-side)"/>
 </g>
-<g class="column active" style="--lag:49ms">
+<g class="column active" style="--lag:125ms">
 <polygon points="492.6,176.0 495.4,172.0 511.6,172.0 508.8,176.0" fill="#3b2366"/>
 <polygon points="492.6,176.0 508.8,176.0 508.8,185.0 492.6,185.0" fill="#321d56"/>
 <polygon points="508.8,176.0 511.6,172.0 511.6,181.0 508.8,185.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:55ms">
+<g class="column active" style="--lag:130ms">
 <polygon points="514.3,176.0 517.1,172.0 533.3,172.0 530.5,176.0" fill="#3b2366"/>
 <polygon points="514.3,176.0 530.5,176.0 530.5,185.0 514.3,185.0" fill="#321d56"/>
 <polygon points="530.5,176.0 533.3,172.0 533.3,181.0 530.5,185.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:61ms">
+<g class="column active" style="--lag:135ms">
 <polygon points="536.0,176.0 538.8,172.0 555.0,172.0 552.2,176.0" fill="#3b2366"/>
 <polygon points="536.0,176.0 552.2,176.0 552.2,185.0 536.0,185.0" fill="#321d56"/>
 <polygon points="552.2,176.0 555.0,172.0 555.0,181.0 552.2,185.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:67ms">
+<g class="column active" style="--lag:140ms">
 <polygon points="557.6,176.0 560.4,172.0 576.6,172.0 573.8,176.0" fill="#3b2366"/>
 <polygon points="557.6,176.0 573.8,176.0 573.8,185.0 557.6,185.0" fill="#321d56"/>
 <polygon points="573.8,176.0 576.6,172.0 576.6,181.0 573.8,185.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:73ms">
+<g class="column active" style="--lag:145ms">
 <polygon points="579.2,171.0 582.0,167.0 598.2,167.0 595.5,171.0" fill="#643cae"/>
 <polygon points="579.2,171.0 595.5,171.0 595.5,185.0 579.2,185.0" fill="#543292"/>
 <polygon points="595.5,171.0 598.2,167.0 598.2,181.0 595.5,185.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:79ms">
+<g class="column active" style="--lag:150ms">
 <polygon points="600.9,171.0 603.7,167.0 619.9,167.0 617.1,171.0" fill="#643cae"/>
 <polygon points="600.9,171.0 617.1,171.0 617.1,185.0 600.9,185.0" fill="#543292"/>
 <polygon points="617.1,171.0 619.9,167.0 619.9,181.0 617.1,185.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:85ms">
+<g class="column active" style="--lag:155ms">
 <polygon points="622.5,171.0 625.3,167.0 641.5,167.0 638.8,171.0" fill="#643cae"/>
 <polygon points="622.5,171.0 638.8,171.0 638.8,185.0 622.5,185.0" fill="#543292"/>
 <polygon points="638.8,171.0 641.5,167.0 641.5,181.0 638.8,185.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:91ms">
+<g class="column active" style="--lag:160ms">
 <polygon points="644.2,176.0 647.0,172.0 663.2,172.0 660.4,176.0" fill="#3b2366"/>
 <polygon points="644.2,176.0 660.4,176.0 660.4,185.0 644.2,185.0" fill="#321d56"/>
 <polygon points="660.4,176.0 663.2,172.0 663.2,181.0 660.4,185.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:97ms">
+<g class="column active" style="--lag:165ms">
 <polygon points="665.8,176.0 668.6,172.0 684.8,172.0 682.0,176.0" fill="#3b2366"/>
 <polygon points="665.8,176.0 682.0,176.0 682.0,185.0 665.8,185.0" fill="#321d56"/>
 <polygon points="682.0,176.0 684.8,172.0 684.8,181.0 682.0,185.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:103ms">
+<g class="column active" style="--lag:170ms">
 <polygon points="687.5,176.0 690.3,172.0 706.5,172.0 703.7,176.0" fill="#3b2366"/>
 <polygon points="687.5,176.0 703.7,176.0 703.7,185.0 687.5,185.0" fill="#321d56"/>
 <polygon points="703.7,176.0 706.5,172.0 706.5,181.0 703.7,185.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:109ms">
+<g class="column active" style="--lag:175ms">
 <polygon points="709.1,176.0 711.9,172.0 728.1,172.0 725.4,176.0" fill="#3b2366"/>
 <polygon points="709.1,176.0 725.4,176.0 725.4,185.0 709.1,185.0" fill="#321d56"/>
 <polygon points="725.4,176.0 728.1,172.0 728.1,181.0 725.4,185.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:115ms">
+<g class="column active" style="--lag:180ms">
 <polygon points="730.8,164.0 733.6,160.0 749.8,160.0 747.0,164.0" fill="#8952ee"/>
 <polygon points="730.8,164.0 747.0,164.0 747.0,185.0 730.8,185.0" fill="#7345c8"/>
 <polygon points="747.0,164.0 749.8,160.0 749.8,181.0 747.0,185.0" fill="#543291"/>
 </g>
-<g class="column active" style="--lag:121ms">
+<g class="column active" style="--lag:185ms">
 <polygon points="752.4,156.0 755.2,152.0 771.4,152.0 768.6,156.0" fill="#b897f4"/>
 <polygon points="752.4,156.0 768.6,156.0 768.6,185.0 752.4,185.0" fill="#9b7fcd"/>
 <polygon points="768.6,156.0 771.4,152.0 771.4,181.0 768.6,185.0" fill="#705c95"/>
 </g>
-<g class="column active" style="--lag:127ms">
+<g class="column active" style="--lag:190ms">
 <polygon points="774.1,156.0 776.9,152.0 793.1,152.0 790.3,156.0" fill="#b897f4"/>
 <polygon points="774.1,156.0 790.3,156.0 790.3,185.0 774.1,185.0" fill="#9b7fcd"/>
 <polygon points="790.3,156.0 793.1,152.0 793.1,181.0 790.3,185.0" fill="#705c95"/>
 </g>
-<g class="column active" style="--lag:133ms">
+<g class="column active" style="--lag:195ms">
 <polygon points="795.8,171.0 798.5,167.0 814.8,167.0 812.0,171.0" fill="#643cae"/>
 <polygon points="795.8,171.0 812.0,171.0 812.0,185.0 795.8,185.0" fill="#543292"/>
 <polygon points="812.0,171.0 814.8,167.0 814.8,181.0 812.0,185.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:139ms">
+<g class="column active" style="--lag:200ms">
 <polygon points="817.4,171.0 820.2,167.0 836.4,167.0 833.6,171.0" fill="#643cae"/>
 <polygon points="817.4,171.0 833.6,171.0 833.6,185.0 817.4,185.0" fill="#543292"/>
 <polygon points="833.6,171.0 836.4,167.0 836.4,181.0 833.6,185.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:145ms">
+<g class="column active" style="--lag:205ms">
 <polygon points="839.0,176.0 841.8,172.0 858.0,172.0 855.2,176.0" fill="#3b2366"/>
 <polygon points="839.0,176.0 855.2,176.0 855.2,185.0 839.0,185.0" fill="#321d56"/>
 <polygon points="855.2,176.0 858.0,172.0 858.0,181.0 855.2,185.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:151ms">
+<g class="column active" style="--lag:210ms">
 <polygon points="860.7,176.0 863.5,172.0 879.7,172.0 876.9,176.0" fill="#3b2366"/>
 <polygon points="860.7,176.0 876.9,176.0 876.9,185.0 860.7,185.0" fill="#321d56"/>
 <polygon points="876.9,176.0 879.7,172.0 879.7,181.0 876.9,185.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:157ms">
+<g class="column active" style="--lag:215ms">
 <polygon points="882.3,156.0 885.1,152.0 901.3,152.0 898.5,156.0" fill="#b897f4"/>
 <polygon points="882.3,156.0 898.5,156.0 898.5,185.0 882.3,185.0" fill="#9b7fcd"/>
 <polygon points="898.5,156.0 901.3,152.0 901.3,181.0 898.5,185.0" fill="#705c95"/>
 </g>
-<g class="column active" style="--lag:163ms">
+<g class="column active" style="--lag:220ms">
 <polygon points="904.0,164.0 906.8,160.0 923.0,160.0 920.2,164.0" fill="#8952ee"/>
 <polygon points="904.0,164.0 920.2,164.0 920.2,185.0 904.0,185.0" fill="#7345c8"/>
 <polygon points="920.2,164.0 923.0,160.0 923.0,181.0 920.2,185.0" fill="#543291"/>
 </g>
-<g class="column active" style="--lag:169ms">
+<g class="column active" style="--lag:225ms">
 <polygon points="925.6,171.0 928.4,167.0 944.6,167.0 941.9,171.0" fill="#643cae"/>
 <polygon points="925.6,171.0 941.9,171.0 941.9,185.0 925.6,185.0" fill="#543292"/>
 <polygon points="941.9,171.0 944.6,167.0 944.6,181.0 941.9,185.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:175ms">
+<g class="column active" style="--lag:230ms">
 <polygon points="947.3,171.0 950.1,167.0 966.3,167.0 963.5,171.0" fill="#643cae"/>
 <polygon points="947.3,171.0 963.5,171.0 963.5,185.0 947.3,185.0" fill="#543292"/>
 <polygon points="963.5,171.0 966.3,167.0 966.3,181.0 963.5,185.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:181ms">
+<g class="column active" style="--lag:235ms">
 <polygon points="968.9,164.0 971.7,160.0 987.9,160.0 985.1,164.0" fill="#8952ee"/>
 <polygon points="968.9,164.0 985.1,164.0 985.1,185.0 968.9,185.0" fill="#7345c8"/>
 <polygon points="985.1,164.0 987.9,160.0 987.9,181.0 985.1,185.0" fill="#543291"/>
 </g>
-<g class="column active" style="--lag:187ms">
+<g class="column active" style="--lag:240ms">
 <polygon points="990.6,164.0 993.4,160.0 1009.6,160.0 1006.8,164.0" fill="#8952ee"/>
 <polygon points="990.6,164.0 1006.8,164.0 1006.8,185.0 990.6,185.0" fill="#7345c8"/>
 <polygon points="1006.8,164.0 1009.6,160.0 1009.6,181.0 1006.8,185.0" fill="#543291"/>
 </g>
-<g class="column active" style="--lag:193ms">
+<g class="column active" style="--lag:245ms">
 <polygon points="1012.2,171.0 1015.0,167.0 1031.2,167.0 1028.4,171.0" fill="#643cae"/>
 <polygon points="1012.2,171.0 1028.4,171.0 1028.4,185.0 1012.2,185.0" fill="#543292"/>
 <polygon points="1028.4,171.0 1031.2,167.0 1031.2,181.0 1028.4,185.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:199ms">
+<g class="column active" style="--lag:250ms">
 <polygon points="1033.9,171.0 1036.7,167.0 1052.9,167.0 1050.1,171.0" fill="#643cae"/>
 <polygon points="1033.9,171.0 1050.1,171.0 1050.1,185.0 1033.9,185.0" fill="#543292"/>
 <polygon points="1050.1,171.0 1052.9,167.0 1052.9,181.0 1050.1,185.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:205ms">
+<g class="column active" style="--lag:255ms">
 <polygon points="1055.5,156.0 1058.3,152.0 1074.5,152.0 1071.8,156.0" fill="#b897f4"/>
 <polygon points="1055.5,156.0 1071.8,156.0 1071.8,185.0 1055.5,185.0" fill="#9b7fcd"/>
 <polygon points="1071.8,156.0 1074.5,152.0 1074.5,181.0 1071.8,185.0" fill="#705c95"/>
 </g>
-<g class="column active" style="--lag:211ms">
+<g class="column active" style="--lag:260ms">
 <polygon points="1077.2,176.0 1080.0,172.0 1096.2,172.0 1093.4,176.0" fill="#3b2366"/>
 <polygon points="1077.2,176.0 1093.4,176.0 1093.4,185.0 1077.2,185.0" fill="#321d56"/>
 <polygon points="1093.4,176.0 1096.2,172.0 1096.2,181.0 1093.4,185.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:217ms">
+<g class="column active" style="--lag:265ms">
 <polygon points="1098.8,156.0 1101.6,152.0 1117.8,152.0 1115.0,156.0" fill="#b897f4"/>
 <polygon points="1098.8,156.0 1115.0,156.0 1115.0,185.0 1098.8,185.0" fill="#9b7fcd"/>
 <polygon points="1115.0,156.0 1117.8,152.0 1117.8,181.0 1115.0,185.0" fill="#705c95"/>
 </g>
-<g class="column active" style="--lag:223ms">
+<g class="column active" style="--lag:270ms">
 <polygon points="1120.5,156.0 1123.3,152.0 1139.5,152.0 1136.7,156.0" fill="#b897f4"/>
 <polygon points="1120.5,156.0 1136.7,156.0 1136.7,185.0 1120.5,185.0" fill="#9b7fcd"/>
 <polygon points="1136.7,156.0 1139.5,152.0 1139.5,181.0 1136.7,185.0" fill="#705c95"/>
@@ -1664,7 +1664,7 @@ text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Ar
 <polygon points="382.4,194.5 398.6,194.5 398.6,200.0 382.4,200.0" fill="var(--empty-front)"/>
 <polygon points="398.6,194.5 401.4,190.5 401.4,196.0 398.6,200.0" fill="var(--empty-side)"/>
 </g>
-<g class="column active" style="--lag:30ms">
+<g class="column active" style="--lag:109ms">
 <polygon points="404.0,191.0 406.8,187.0 423.0,187.0 420.2,191.0" fill="#3b2366"/>
 <polygon points="404.0,191.0 420.2,191.0 420.2,200.0 404.0,200.0" fill="#321d56"/>
 <polygon points="420.2,191.0 423.0,187.0 423.0,196.0 420.2,200.0" fill="#24153e"/>
@@ -1674,92 +1674,92 @@ text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Ar
 <polygon points="425.7,194.5 441.9,194.5 441.9,200.0 425.7,200.0" fill="var(--empty-front)"/>
 <polygon points="441.9,194.5 444.7,190.5 444.7,196.0 441.9,200.0" fill="var(--empty-side)"/>
 </g>
-<g class="column active" style="--lag:42ms">
+<g class="column active" style="--lag:119ms">
 <polygon points="447.3,191.0 450.1,187.0 466.3,187.0 463.5,191.0" fill="#3b2366"/>
 <polygon points="447.3,191.0 463.5,191.0 463.5,200.0 447.3,200.0" fill="#321d56"/>
 <polygon points="463.5,191.0 466.3,187.0 466.3,196.0 463.5,200.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:48ms">
+<g class="column active" style="--lag:124ms">
 <polygon points="469.0,191.0 471.8,187.0 488.0,187.0 485.2,191.0" fill="#3b2366"/>
 <polygon points="469.0,191.0 485.2,191.0 485.2,200.0 469.0,200.0" fill="#321d56"/>
 <polygon points="485.2,191.0 488.0,187.0 488.0,196.0 485.2,200.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:54ms">
+<g class="column active" style="--lag:129ms">
 <polygon points="490.6,191.0 493.4,187.0 509.6,187.0 506.8,191.0" fill="#3b2366"/>
 <polygon points="490.6,191.0 506.8,191.0 506.8,200.0 490.6,200.0" fill="#321d56"/>
 <polygon points="506.8,191.0 509.6,187.0 509.6,196.0 506.8,200.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:60ms">
+<g class="column active" style="--lag:134ms">
 <polygon points="512.3,186.0 515.1,182.0 531.3,182.0 528.5,186.0" fill="#643cae"/>
 <polygon points="512.3,186.0 528.5,186.0 528.5,200.0 512.3,200.0" fill="#543292"/>
 <polygon points="528.5,186.0 531.3,182.0 531.3,196.0 528.5,200.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:66ms">
+<g class="column active" style="--lag:139ms">
 <polygon points="534.0,191.0 536.8,187.0 553.0,187.0 550.2,191.0" fill="#3b2366"/>
 <polygon points="534.0,191.0 550.2,191.0 550.2,200.0 534.0,200.0" fill="#321d56"/>
 <polygon points="550.2,191.0 553.0,187.0 553.0,196.0 550.2,200.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:72ms">
+<g class="column active" style="--lag:144ms">
 <polygon points="555.6,191.0 558.4,187.0 574.6,187.0 571.8,191.0" fill="#3b2366"/>
 <polygon points="555.6,191.0 571.8,191.0 571.8,200.0 555.6,200.0" fill="#321d56"/>
 <polygon points="571.8,191.0 574.6,187.0 574.6,196.0 571.8,200.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:78ms">
+<g class="column active" style="--lag:149ms">
 <polygon points="577.2,191.0 580.0,187.0 596.2,187.0 593.5,191.0" fill="#3b2366"/>
 <polygon points="577.2,191.0 593.5,191.0 593.5,200.0 577.2,200.0" fill="#321d56"/>
 <polygon points="593.5,191.0 596.2,187.0 596.2,196.0 593.5,200.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:84ms">
+<g class="column active" style="--lag:154ms">
 <polygon points="598.9,186.0 601.7,182.0 617.9,182.0 615.1,186.0" fill="#643cae"/>
 <polygon points="598.9,186.0 615.1,186.0 615.1,200.0 598.9,200.0" fill="#543292"/>
 <polygon points="615.1,186.0 617.9,182.0 617.9,196.0 615.1,200.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:90ms">
+<g class="column active" style="--lag:159ms">
 <polygon points="620.5,191.0 623.3,187.0 639.5,187.0 636.8,191.0" fill="#3b2366"/>
 <polygon points="620.5,191.0 636.8,191.0 636.8,200.0 620.5,200.0" fill="#321d56"/>
 <polygon points="636.8,191.0 639.5,187.0 639.5,196.0 636.8,200.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:96ms">
+<g class="column active" style="--lag:164ms">
 <polygon points="642.2,186.0 645.0,182.0 661.2,182.0 658.4,186.0" fill="#643cae"/>
 <polygon points="642.2,186.0 658.4,186.0 658.4,200.0 642.2,200.0" fill="#543292"/>
 <polygon points="658.4,186.0 661.2,182.0 661.2,196.0 658.4,200.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:102ms">
+<g class="column active" style="--lag:169ms">
 <polygon points="663.8,191.0 666.6,187.0 682.8,187.0 680.0,191.0" fill="#3b2366"/>
 <polygon points="663.8,191.0 680.0,191.0 680.0,200.0 663.8,200.0" fill="#321d56"/>
 <polygon points="680.0,191.0 682.8,187.0 682.8,196.0 680.0,200.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:108ms">
+<g class="column active" style="--lag:174ms">
 <polygon points="685.5,186.0 688.3,182.0 704.5,182.0 701.7,186.0" fill="#643cae"/>
 <polygon points="685.5,186.0 701.7,186.0 701.7,200.0 685.5,200.0" fill="#543292"/>
 <polygon points="701.7,186.0 704.5,182.0 704.5,196.0 701.7,200.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:114ms">
+<g class="column active" style="--lag:179ms">
 <polygon points="707.1,191.0 709.9,187.0 726.1,187.0 723.4,191.0" fill="#3b2366"/>
 <polygon points="707.1,191.0 723.4,191.0 723.4,200.0 707.1,200.0" fill="#321d56"/>
 <polygon points="723.4,191.0 726.1,187.0 726.1,196.0 723.4,200.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:120ms">
+<g class="column active" style="--lag:184ms">
 <polygon points="728.8,171.0 731.6,167.0 747.8,167.0 745.0,171.0" fill="#b897f4"/>
 <polygon points="728.8,171.0 745.0,171.0 745.0,200.0 728.8,200.0" fill="#9b7fcd"/>
 <polygon points="745.0,171.0 747.8,167.0 747.8,196.0 745.0,200.0" fill="#705c95"/>
 </g>
-<g class="column active" style="--lag:126ms">
+<g class="column active" style="--lag:189ms">
 <polygon points="750.4,171.0 753.2,167.0 769.4,167.0 766.6,171.0" fill="#b897f4"/>
 <polygon points="750.4,171.0 766.6,171.0 766.6,200.0 750.4,200.0" fill="#9b7fcd"/>
 <polygon points="766.6,171.0 769.4,167.0 769.4,196.0 766.6,200.0" fill="#705c95"/>
 </g>
-<g class="column active" style="--lag:132ms">
+<g class="column active" style="--lag:194ms">
 <polygon points="772.1,186.0 774.9,182.0 791.1,182.0 788.3,186.0" fill="#643cae"/>
 <polygon points="772.1,186.0 788.3,186.0 788.3,200.0 772.1,200.0" fill="#543292"/>
 <polygon points="788.3,186.0 791.1,182.0 791.1,196.0 788.3,200.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:138ms">
+<g class="column active" style="--lag:199ms">
 <polygon points="793.8,186.0 796.5,182.0 812.8,182.0 810.0,186.0" fill="#643cae"/>
 <polygon points="793.8,186.0 810.0,186.0 810.0,200.0 793.8,200.0" fill="#543292"/>
 <polygon points="810.0,186.0 812.8,182.0 812.8,196.0 810.0,200.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:144ms">
+<g class="column active" style="--lag:204ms">
 <polygon points="815.4,186.0 818.2,182.0 834.4,182.0 831.6,186.0" fill="#643cae"/>
 <polygon points="815.4,186.0 831.6,186.0 831.6,200.0 815.4,200.0" fill="#543292"/>
 <polygon points="831.6,186.0 834.4,182.0 834.4,196.0 831.6,200.0" fill="#3d256a"/>
@@ -1769,83 +1769,83 @@ text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Ar
 <polygon points="837.0,194.5 853.2,194.5 853.2,200.0 837.0,200.0" fill="var(--empty-front)"/>
 <polygon points="853.2,194.5 856.0,190.5 856.0,196.0 853.2,200.0" fill="var(--empty-side)"/>
 </g>
-<g class="column active" style="--lag:156ms">
+<g class="column active" style="--lag:214ms">
 <polygon points="858.7,191.0 861.5,187.0 877.7,187.0 874.9,191.0" fill="#3b2366"/>
 <polygon points="858.7,191.0 874.9,191.0 874.9,200.0 858.7,200.0" fill="#321d56"/>
 <polygon points="874.9,191.0 877.7,187.0 877.7,196.0 874.9,200.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:162ms">
+<g class="column active" style="--lag:219ms">
 <polygon points="880.3,179.0 883.1,175.0 899.3,175.0 896.5,179.0" fill="#8952ee"/>
 <polygon points="880.3,179.0 896.5,179.0 896.5,200.0 880.3,200.0" fill="#7345c8"/>
 <polygon points="896.5,179.0 899.3,175.0 899.3,196.0 896.5,200.0" fill="#543291"/>
 </g>
-<g class="column active" style="--lag:168ms">
+<g class="column active" style="--lag:224ms">
 <polygon points="902.0,186.0 904.8,182.0 921.0,182.0 918.2,186.0" fill="#643cae"/>
 <polygon points="902.0,186.0 918.2,186.0 918.2,200.0 902.0,200.0" fill="#543292"/>
 <polygon points="918.2,186.0 921.0,182.0 921.0,196.0 918.2,200.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:174ms">
+<g class="column active" style="--lag:229ms">
 <polygon points="923.6,171.0 926.4,167.0 942.6,167.0 939.9,171.0" fill="#b897f4"/>
 <polygon points="923.6,171.0 939.9,171.0 939.9,200.0 923.6,200.0" fill="#9b7fcd"/>
 <polygon points="939.9,171.0 942.6,167.0 942.6,196.0 939.9,200.0" fill="#705c95"/>
 </g>
-<g class="column active" style="--lag:180ms">
+<g class="column active" style="--lag:234ms">
 <polygon points="945.3,186.0 948.1,182.0 964.3,182.0 961.5,186.0" fill="#643cae"/>
 <polygon points="945.3,186.0 961.5,186.0 961.5,200.0 945.3,200.0" fill="#543292"/>
 <polygon points="961.5,186.0 964.3,182.0 964.3,196.0 961.5,200.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:186ms">
+<g class="column active" style="--lag:239ms">
 <polygon points="966.9,191.0 969.7,187.0 985.9,187.0 983.1,191.0" fill="#3b2366"/>
 <polygon points="966.9,191.0 983.1,191.0 983.1,200.0 966.9,200.0" fill="#321d56"/>
 <polygon points="983.1,191.0 985.9,187.0 985.9,196.0 983.1,200.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:192ms">
+<g class="column active" style="--lag:244ms">
 <polygon points="988.6,191.0 991.4,187.0 1007.6,187.0 1004.8,191.0" fill="#3b2366"/>
 <polygon points="988.6,191.0 1004.8,191.0 1004.8,200.0 988.6,200.0" fill="#321d56"/>
 <polygon points="1004.8,191.0 1007.6,187.0 1007.6,196.0 1004.8,200.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:198ms">
+<g class="column active" style="--lag:249ms">
 <polygon points="1010.2,186.0 1013.0,182.0 1029.2,182.0 1026.4,186.0" fill="#643cae"/>
 <polygon points="1010.2,186.0 1026.4,186.0 1026.4,200.0 1010.2,200.0" fill="#543292"/>
 <polygon points="1026.4,186.0 1029.2,182.0 1029.2,196.0 1026.4,200.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:204ms">
+<g class="column active" style="--lag:254ms">
 <polygon points="1031.9,179.0 1034.7,175.0 1050.9,175.0 1048.1,179.0" fill="#8952ee"/>
 <polygon points="1031.9,179.0 1048.1,179.0 1048.1,200.0 1031.9,200.0" fill="#7345c8"/>
 <polygon points="1048.1,179.0 1050.9,175.0 1050.9,196.0 1048.1,200.0" fill="#543291"/>
 </g>
-<g class="column active" style="--lag:210ms">
+<g class="column active" style="--lag:259ms">
 <polygon points="1053.5,191.0 1056.3,187.0 1072.5,187.0 1069.8,191.0" fill="#3b2366"/>
 <polygon points="1053.5,191.0 1069.8,191.0 1069.8,200.0 1053.5,200.0" fill="#321d56"/>
 <polygon points="1069.8,191.0 1072.5,187.0 1072.5,196.0 1069.8,200.0" fill="#24153e"/>
 </g>
-<g class="column active" style="--lag:216ms">
+<g class="column active" style="--lag:264ms">
 <polygon points="1075.2,186.0 1078.0,182.0 1094.2,182.0 1091.4,186.0" fill="#643cae"/>
 <polygon points="1075.2,186.0 1091.4,186.0 1091.4,200.0 1075.2,200.0" fill="#543292"/>
 <polygon points="1091.4,186.0 1094.2,182.0 1094.2,196.0 1091.4,200.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:222ms">
+<g class="column active" style="--lag:269ms">
 <polygon points="1096.8,186.0 1099.6,182.0 1115.8,182.0 1113.0,186.0" fill="#643cae"/>
 <polygon points="1096.8,186.0 1113.0,186.0 1113.0,200.0 1096.8,200.0" fill="#543292"/>
 <polygon points="1113.0,186.0 1115.8,182.0 1115.8,196.0 1113.0,200.0" fill="#3d256a"/>
 </g>
-<g class="column active" style="--lag:228ms">
+<g class="column active" style="--lag:274ms">
 <polygon points="1118.5,186.0 1121.3,182.0 1137.5,182.0 1134.7,186.0" fill="#643cae"/>
 <polygon points="1118.5,186.0 1134.7,186.0 1134.7,200.0 1118.5,200.0" fill="#543292"/>
 <polygon points="1134.7,186.0 1137.5,182.0 1137.5,196.0 1134.7,200.0" fill="#3d256a"/>
 </g>
-<text x="36" y="228" font-size="15" fill="var(--muted)" font-weight="400">Dec</text>
-<text x="136" y="228" font-size="15" fill="var(--muted)" font-weight="400">Jan</text>
-<text x="236" y="228" font-size="15" fill="var(--muted)" font-weight="400">Feb</text>
-<text x="337" y="228" font-size="15" fill="var(--muted)" font-weight="400">Mar</text>
-<text x="439" y="228" font-size="15" fill="var(--muted)" font-weight="400">Apr</text>
-<text x="540" y="228" font-size="15" fill="var(--muted)" font-weight="400">May</text>
-<text x="641" y="228" font-size="15" fill="var(--muted)" font-weight="400">Jun</text>
-<text x="743" y="228" font-size="15" fill="var(--muted)" font-weight="400">Jul</text>
-<text x="845" y="228" font-size="15" fill="var(--muted)" font-weight="400">Aug</text>
-<text x="947" y="228" font-size="15" fill="var(--muted)" font-weight="400">Sep</text>
-<text x="1048" y="228" font-size="15" fill="var(--muted)" font-weight="400">Oct</text>
-<text x="1140" y="228" font-size="15" fill="var(--muted)" font-weight="400">Nov</text>
+<text x="61" y="228" font-size="15" fill="var(--muted)" font-weight="400">Dec</text>
+<text x="157" y="228" font-size="15" fill="var(--muted)" font-weight="400">Jan</text>
+<text x="252" y="228" font-size="15" fill="var(--muted)" font-weight="400">Feb</text>
+<text x="339" y="228" font-size="15" fill="var(--muted)" font-weight="400">Mar</text>
+<text x="435" y="228" font-size="15" fill="var(--muted)" font-weight="400">Apr</text>
+<text x="528" y="228" font-size="15" fill="var(--muted)" font-weight="400">May</text>
+<text x="624" y="228" font-size="15" fill="var(--muted)" font-weight="400">Jun</text>
+<text x="716" y="228" font-size="15" fill="var(--muted)" font-weight="400">Jul</text>
+<text x="812" y="228" font-size="15" fill="var(--muted)" font-weight="400">Aug</text>
+<text x="908" y="228" font-size="15" fill="var(--muted)" font-weight="400">Sep</text>
+<text x="1001" y="228" font-size="15" fill="var(--muted)" font-weight="400">Oct</text>
+<text x="1097" y="228" font-size="15" fill="var(--muted)" font-weight="400">Nov</text>
 <path d="M36 249H1164" stroke="var(--line)"/>
 <text x="36" y="304" font-size="36" fill="var(--accent)" font-weight="600">73.4B</text>
 <text x="36" y="332" font-size="17" fill="var(--muted)" font-weight="400">Lifetime tokens</text>
