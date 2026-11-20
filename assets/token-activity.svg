@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-<title id="title">Token activity</title><desc id="desc">Lifetime tokens 73.4B. Peak tokens 2.8B. Longest task 1d 19h. Longest streak 110 days. Current streak 96 days.</desc>
+<title id="title">Token activity</title><desc id="desc">Lifetime tokens 73.8B. Peak tokens 2.8B. Longest task 1d 19h. Longest streak 110 days. Current streak 97 days.</desc>
 <style>
 svg {
  --ink: #1f2328; --muted: #59636e; --accent: #6639a6; --line: #d1d9e0;
@@ -1574,10 +1574,10 @@ text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Ar
 <polygon points="1120.5,156.0 1136.7,156.0 1136.7,185.0 1120.5,185.0" fill="#9b7fcd"/>
 <polygon points="1136.7,156.0 1139.5,152.0 1139.5,181.0 1136.7,185.0" fill="#705c95"/>
 </g>
-<g>
-<polygon points="1142.1,179.5 1144.9,175.5 1161.1,175.5 1158.3,179.5" fill="var(--empty-top)"/>
-<polygon points="1142.1,179.5 1158.3,179.5 1158.3,185.0 1142.1,185.0" fill="var(--empty-front)"/>
-<polygon points="1158.3,179.5 1161.1,175.5 1161.1,181.0 1158.3,185.0" fill="var(--empty-side)"/>
+<g class="column active" style="--lag:275ms">
+<polygon points="1142.1,171.0 1144.9,167.0 1161.1,167.0 1158.3,171.0" fill="#643cae"/>
+<polygon points="1142.1,171.0 1158.3,171.0 1158.3,185.0 1142.1,185.0" fill="#543292"/>
+<polygon points="1158.3,171.0 1161.1,167.0 1161.1,181.0 1158.3,185.0" fill="#3d256a"/>
 </g>
 <g>
 <polygon points="36.0,194.5 38.8,190.5 55.0,190.5 52.2,194.5" fill="var(--empty-top)"/>
@@ -1847,7 +1847,7 @@ text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Ar
 <text x="1001" y="228" font-size="15" fill="var(--muted)" font-weight="400">Oct</text>
 <text x="1097" y="228" font-size="15" fill="var(--muted)" font-weight="400">Nov</text>
 <path d="M36 249H1164" stroke="var(--line)"/>
-<text x="36" y="304" font-size="36" fill="var(--accent)" font-weight="600">73.4B</text>
+<text x="36" y="304" font-size="36" fill="var(--accent)" font-weight="600">73.8B</text>
 <text x="36" y="332" font-size="17" fill="var(--muted)" font-weight="400">Lifetime tokens</text>
 <text x="266" y="304" font-size="36" fill="var(--ink)" font-weight="450">2.8B</text>
 <text x="266" y="332" font-size="17" fill="var(--muted)" font-weight="400">Peak tokens</text>
@@ -1855,6 +1855,6 @@ text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Ar
 <text x="496" y="332" font-size="17" fill="var(--muted)" font-weight="400">Longest task</text>
 <text x="726" y="304" font-size="36" fill="var(--ink)" font-weight="450">110 days</text>
 <text x="726" y="332" font-size="17" fill="var(--muted)" font-weight="400">Longest streak</text>
-<text x="956" y="304" font-size="36" fill="var(--ink)" font-weight="450">96 days</text>
+<text x="956" y="304" font-size="36" fill="var(--ink)" font-weight="450">97 days</text>
 <text x="956" y="332" font-size="17" fill="var(--muted)" font-weight="400">Current streak</text>
 </svg>
