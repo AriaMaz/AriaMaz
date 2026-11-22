@@ -80,7 +80,7 @@ svg:target .chart-hint { display: inline; }
 </style><g class="layout"><g class="heading">
 <text x="36" y="49" font-size="28" fill="var(--ink)" font-weight="600">Token activity</text>
 </g><text class="open-chart" x="1164" y="47" text-anchor="end">Explore days ↗</text>
-<text class="chart-hint" x="1164" y="47" text-anchor="end">Hover or tap a day</text>
+<text class="chart-hint" x="1164" y="47" text-anchor="end">Hover over a day.</text>
 <text class="strip-label" x="46" y="1939">Nov 2025 – Feb 2026</text>
 <g class="strip" style="--strip-y:1993px;--strip-x:-36.0px">
 <g aria-hidden="true"><polygon points="48.0,104.5 50.8,100.5 67.0,100.5 64.2,104.5" fill="var(--empty-top)"/><polygon points="48.0,104.5 64.2,104.5 64.2,110.0 48.0,110.0" fill="var(--empty-front)"/><polygon points="64.2,104.5 67.0,100.5 67.0,106.0 64.2,110.0" fill="var(--empty-side)"/></g>
