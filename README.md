@@ -1,1 +1,1 @@
-[![Codex token activity. Lifetime tokens 75.8B. Peak tokens 2.8B. Longest task 1d 19h. Longest streak 110 days. Current streak 100 days. Explore daily totals.](./assets/token-activity.svg)](https://raw.githubusercontent.com/AriaMaz/AriaMaz/main/assets/token-activity.svg#explore)
+[![Codex token activity. Lifetime tokens 76.3B. Peak tokens 2.8B. Longest task 1d 19h. Longest streak 110 days. Current streak 101 days. Explore daily totals.](./assets/token-activity.svg)](https://raw.githubusercontent.com/AriaMaz/AriaMaz/main/assets/token-activity.svg#explore)
